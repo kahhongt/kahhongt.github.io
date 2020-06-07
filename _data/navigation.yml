@@ -5,10 +5,10 @@ main:
     url: /portfolio/
         
   - title: "Posts"
-    url: https://tkh177.github.io/year-archive/
+    url: /year-archive/
     
   - title: "CV"
-    url: https://tkh177.github.io/cv/
+    url: /cv/
     
   - title: "Placeholder"
-    url: https://tkh177.github.io/markdown/
+    url: /markdown/
