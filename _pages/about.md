@@ -1,14 +1,12 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Welcome"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-# Welcome
 
 Hi! I am Kah Hong, a data scientist serving some hungry folks in Southeast Asia. I am currently focused on statistical modelling and product experimentation, but I have just enough expertise in machine learning and optimisation concepts to work on impactful projects. Particularly, I am interested in the modelling of time series and geographical trends for a myriad of use cases.
 
