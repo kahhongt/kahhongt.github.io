@@ -27,6 +27,6 @@ redirect_from:
 
 ### Computing
 * Programming Languages: **Python, R, SQL, C++, MATLAB, Excel VBA**
-* Data Platforms and Tools: Presto, Hive, Google Cloud Platform, Microsoft Azure, Git
-* Data Visualisations: Tableau, Chartio, Power BI, Matplotlib, ggplot2, seaborn
+* Platforms and Tools: Presto, Hive, Google Cloud Platform, Microsoft Azure, Git
+* Data Visualisation: Tableau, Chartio, Power BI, Matplotlib, ggplot2, seaborn
 * Libraries: scikit-learn, SciPy, Tensorflow, Statsmodels, NumPy, Pandas
