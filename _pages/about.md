@@ -16,4 +16,4 @@ I am creating this website to showcase some projects I will be working on - it i
 I can be contacted at kahhong.tai[at]gmail.com
 
 ### Site Details
-This website template was forked from https://academicpages.github.io/, which in turn was forked from https://mmistakes.github.io/minimal-mistakes/.
+This website template was forked from [academicpages](https://academicpages.github.io/), which in turn was forked from [minimalmistakes](https://mmistakes.github.io/minimal-mistakes/).
