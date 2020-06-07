@@ -2,7 +2,7 @@
 main:
 
   - title: "Portfolio"
-    url: https://tkh177.github.io/portfolio/
+    url: /portfolio/
         
   - title: "Posts"
     url: https://tkh177.github.io/year-archive/
