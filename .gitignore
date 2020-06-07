@@ -1,2 +1,5 @@
 _site/
 
+# ignoring sample portfolio posts
+portfolio-1.md
+portfolio-2.html
