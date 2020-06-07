@@ -1,22 +1,14 @@
 # main links links
 main:
-  - title: "Publications"
-    url: https://tkh177.github.io/publications/
 
-  - title: "Talks"
-    url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
-    
   - title: "Portfolio"
-    url: /portfolio/
+    url: https://tkh177.github.io/portfolio/
         
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: "Posts"
+    url: https://tkh177.github.io/year-archive/
     
   - title: "CV"
     url: https://tkh177.github.io/cv/
     
-  - title: "Guide"
+  - title: "Placeholder"
     url: /markdown/
