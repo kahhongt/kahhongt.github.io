@@ -9,7 +9,7 @@ It has been almost 2 years since I graduated from college. I curiously dabbled i
 
 Wikipedia provides a good infographic illustrating a common use case for A/B experimentation:
 
-![ABTest](abtesting_example.png){ width="800" height="600" style="display: block; margin: 0 auto" }
+![A/B Testing](abtesting_example.png){ width="800" height="600" style="display: block; margin: 0 auto" }
 
 More often than not, A/B testing involves far more than superficial UI changes. It may be used to test variations in search/ranking algorithms, entire user experience flows, product pricing, and even for evaluating system performance and stability. Analytics work requires a technology stack accorded only to mature companies with more developed data infrastructure and sufficient engineering resources to build experimentation platforms. While commonplace in mature technology hubs like Silicon Valley and Shen Zhen, I would not say that product analytics is a critical research function for most technology start-ups, as there are valid logical and domain constraints inhibiting adoption:
 
