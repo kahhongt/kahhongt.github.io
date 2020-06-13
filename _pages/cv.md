@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+<p align="right"><img src="/images/oxford-logo.png" title="A/B Testing" width="100" height="100" /></p>
+
 ### Education
 * **B.A., M.Eng. in Information Engineering, University of Oxford, 2018** - *First Class Honours*
   * **Oxford-Man Institute of Quantitative Finance**
