@@ -9,11 +9,9 @@ It has been almost 2 years since I graduated from college. I curiously dabbled i
 
 Wikipedia provides a good infographic illustrating a common use case for A/B experimentation:
 
-![ABTest](abtesting_example.png)
+![ABTest](abtesting_example.png){ width="800" height="600" style="display: block; margin: 0 auto" }
 
-More often than not, A/B testing involves far more than superficial UI changes. It may be used to test variations in search/ranking algorithms, entire user experience flows, product pricing, and even for evaluating system performance and stability.
-
-An emerging field that is perhaps non-existent in Southeast Asia more than 5 years ago, analytics work requires a technology stack accorded only to mature companies with more developed data infrastructure and sufficient engineering resources to build experimentation platforms. While commonplace in mature technology hubs like Silicon Valley and Shen Zhen, I would not say that product analytics is a critical research function for most technology start-ups, as there are valid logical and domain constraints inhibiting adoption:
+More often than not, A/B testing involves far more than superficial UI changes. It may be used to test variations in search/ranking algorithms, entire user experience flows, product pricing, and even for evaluating system performance and stability. Analytics work requires a technology stack accorded only to mature companies with more developed data infrastructure and sufficient engineering resources to build experimentation platforms. While commonplace in mature technology hubs like Silicon Valley and Shen Zhen, I would not say that product analytics is a critical research function for most technology start-ups, as there are valid logical and domain constraints inhibiting adoption:
 
 1. Scale: The service must receive sufficient data beyond a threshold volume (in the range of millions of clickstream events per day) to make infrastructure investments worthwhile. Each analytics-driven decision should drive financial impact of at least millions of dollars.
 2. Industry: As an indirect requirement of achieving scale, companies with product analytics functions tend to be consumer facing, with millions of daily active users. Enterprise-facing companies like Slack or Atlassian would have found qualitative user research and intuition sufficient to obtain actionable feedback to product.
