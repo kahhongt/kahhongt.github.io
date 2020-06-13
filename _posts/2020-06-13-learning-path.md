@@ -23,3 +23,4 @@ Given the above, knowledge expertise on product analytics and experimentation in
 
 **In the spirit of social distancing, let's not enter a crowded space.** Drawing some inspiration from my 4th year engineering thesis in epidemiological Bayesian Modelling, I envision **time-series modelling** to be a fundamental academic field with a large myriad of scientific applications - ranging from performance prediction, consumer price forecasting, epidemiology, to quantitative finance.
 
+*TBC*
