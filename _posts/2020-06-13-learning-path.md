@@ -23,7 +23,7 @@ Given the above, knowledge expertise on product analytics and experimentation in
 
 **In the spirit of social distancing, let's not enter a crowded space.** Drawing some inspiration from my 4th year engineering thesis in epidemiological Bayesian Modelling, I envision **time-series modelling** to be a fundamental academic field with a large myriad of scientific applications - ranging from product performance forecasting, econometrics, epidemiology, to quantitative research in finance. From my current experience, about 30% of product analytics workflows require some level of time series analysis, which may be applied to product metrics monitoring and forecasting, churn models and changepoint detection. Product impact sizing, when executed properly, may sometimes even call for a justifiable model of sales/revenue forecasting, which can then be used to inform product prioritization and engineering resource allocation.
 
-Looking up the field briefly, I collate a couple of common concepts and models below:
+**Looking up the field briefly, I collate a couple of common concepts and models below:**
 1. Random Walk and White Noise, Augmented Dickey-Fuller Test
 2. Autocorrelation
 3. Auto-Regressive Moving Average Models
