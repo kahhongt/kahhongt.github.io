@@ -1,5 +1,5 @@
 _site/
 
 # ignoring sample portfolio posts
-/portfolio/portfolio-1.md
+/_portfolio/portfolio-1.md
 portfolio-2.html
