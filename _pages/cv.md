@@ -22,10 +22,10 @@ redirect_from:
     
 
 ### Professional Experience
-* Data Scientist, Grab Holdings Inc. *(Jan 2019 to Present)*
-* Investment Banking Summer Analyst, Credit Suisse *(Jun 2018 to Aug 2018)*
-* Real Estate Investments Intern, GIC *(Jun 2017 to Aug 2017)*
-* Operations Intern, Entrepreneur First *(Jun 2016 to Sep 2016)*
+* Data Scientist, **Grab Holdings Inc.** *(Jan 2019 to Present)*
+* Investment Banking Summer Analyst, **Credit Suisse** *(Jun 2018 to Aug 2018)*
+* Real Estate Investments Intern, **GIC** *(Jun 2017 to Aug 2017)*
+* Operations Intern, **Entrepreneur First** *(Jun 2016 to Sep 2016)*
 
 ### Computing
 * Programming Languages: **Python, R, SQL, C++, MATLAB, Excel VBA**
