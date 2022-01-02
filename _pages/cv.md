@@ -12,7 +12,8 @@ redirect_from:
 <p align="left"><img src="/images/oxford-logo.png" title="A/B Testing" width="100" height="100" /> <img src="/images/oxford-man-institute-logo.png" title="A/B Testing" width="100" height="100" /></p>
 
 ### Education
-* **B.A., M.Eng. in Information Engineering, University of Oxford, 2018** - *First Class Honours*
+* **B.A., M.Eng. in Information Engineering, University of Oxford** *(2014 to 2018)*
+  * Grade: **First Class Honours, St John's College Casbard Scholarship**
   * **Oxford-Man Institute of Quantitative Finance**
     * Bayesian Inference, Gaussian Process Modelling of Point Processes
     * Time Series and Geographical Modelling
