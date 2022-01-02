@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<p align="right"><img src="/images/oxford-logo.png" title="A/B Testing" width="100" height="100" /></p>
+<p align="right"><img src="/images/oxford-logo.png" title="A/B Testing" width="100" height="100" /> <img src="/images/oxford-logo.png" title="A/B Testing" width="100" height="100" /></p>
 
 ### Education
 * **B.A., M.Eng. in Information Engineering, University of Oxford, 2018** - *First Class Honours*
@@ -22,11 +22,11 @@ redirect_from:
 
 
 ### Professional Experience
-* Quantitative Researcher, **Dymon Asia Capital**               *(2021 to Present)*
-* Data Scientist, **Grab Holdings Inc.**                        *(2019 to 2021)*
-* Investment Banking Summer Analyst, **Credit Suisse A.G.**     *(2018)*
-* Real Estate Investments Intern, **GIC**                       *(2017)*
-* Operations Intern, **Entrepreneur First**                     *(2016)*
+* Quantitative Researcher at **Dymon Asia Capital, Singapore** *(April 2021 to December 2021)*
+* Data Scientist at **Grab Holdings Inc, Singapore** *(January 2019 to April 2021)*
+* Investment Banking Summer Analyst at **Credit Suisse A.G., Singapore** *(June 2018 to August 2018)*
+* Real Estate Investments Intern at **GIC, London, United Kingdom** *(June 2017 to August 2017)*
+* Operations Intern at **Entrepreneur First, Singapore** *(June 2016 to September 2016)*
 
 ### Computing
 * Programming Languages: **Python, R, SQL, C++, MATLAB, Excel VBA**
