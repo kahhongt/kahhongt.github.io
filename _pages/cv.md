@@ -23,6 +23,7 @@ redirect_from:
 
 
 ### Professional Experience
+* **Data Scientist** at **Meta, London, United Kingdom** *(January 2022 to Present)*
 * **Quantitative Researcher** at **Dymon Asia Capital, Singapore** *(April 2021 to December 2021)*
 * **Data Scientist** at **Grab, Singapore** *(January 2019 to April 2021)*
 * **Investment Banking Summer Analyst** at **Credit Suisse, Singapore** *(June 2018 to August 2018)*
