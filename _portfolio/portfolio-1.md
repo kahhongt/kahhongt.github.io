@@ -36,7 +36,7 @@ Figure 1 clearly shows an underperformance with the initial half-life parameters
 We can then identify the half-life pair that generates the greatest sharpes, and have found that the best combinations tend to involve a fast half-life of ~1, and a slow half-life from 40 to 48.
 
 <p align = "left"><em>Figure 3: Results Summary</em></p>
-<p align="left"><img src="/images/Trend-following Results Table.png"/ height="200" width="250" /></p>
+<p align="left"><img src="/images/Trend-following Results Table.png"/ height="150" width="210" /></p>
 
 ### Limitations
 
