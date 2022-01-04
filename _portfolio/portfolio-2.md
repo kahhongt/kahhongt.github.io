@@ -1,7 +1,7 @@
 ---
 title: "Asset Rebalancing using Deep Reinforcement Learning"
 date: 2022-01-02
-excerpt: "Optimising for General Step Rewards using Crypto Assets"
+excerpt: "Optimising Returns for a Crypto-Asset Portfolio"
 collection: portfolio
 ---
 
