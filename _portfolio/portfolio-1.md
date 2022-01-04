@@ -1,6 +1,6 @@
 ---
 title: "Systematic Trading using FTX API"
-excerpt: "Trend-Following Strategy applied to ETH/USDT<br/><img src='/images/Trend-following Sharpe Field.png' height="200" width="300">"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
