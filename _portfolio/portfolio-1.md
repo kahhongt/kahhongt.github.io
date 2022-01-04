@@ -8,10 +8,10 @@ collection: portfolio
 ### Background
 In this project, we explore the feasibility of backtesting a simple trend-following strategy using 2 exponentially-weighted moving averages. Moving averages are commonly used to generate systematic buy-sell-hold signals in traditional markets. When the fast exponential moving average > slow exponential moving average, this indicates upward price momentum, and the reverse would indicate downward price momentum.
 
-Here, we attempt to implement a backtest using **ETH Spot**.
+Here, we attempt to implement a backtest using **ETH Spot**, using data from **28 March 2020 to 1 November 2021**.
 
 ### Setup
-1. ETH Hourly OHLCV data is collected from the [FTX API](https://docs.ftx.com/#overview)
+1. ETH Hourly OHLCV data is collected using the [FTX API](https://docs.ftx.com/#overview)
 2. Create slow and fast exponential moving averages using different half-lives
 3. Generate positions based on difference between the fast and slow exponential moving averages
 4. Backtest over sample period and check PnL metrics
@@ -33,9 +33,9 @@ Figure 1 clearly shows an underperformance with the initial half-life parameters
 <p align = "left"><em>Figure 2: Sharpe Field with varying fast and slow exponential half-lives</em></p>
 <p align="left"><img src="/images/Trend-following Sharpe Field.png" height="450" width="600" /></p>
 
-We can then identify the half-life pair that generates the greatest sharpes, and have found that the best combinations tend to involve a fast half-life of ~1, and a slow half-life from 40 to 48.
+We can then identify the half-life pair that generates the highest sharpe ratios, and have found that the best combinations tend to involve a fast half-life of ~1, and a slow half-life from 40 to 48.
 
-<p align = "left"><em>Figure 3: Results Summary</em></p>
+<p align = "left"><em>Figure 3: Results Summary - Top 5 Sharpe </em></p>
 <p align="left"><img src="/images/Trend-following Results Table.png" height="150" width="210" /></p>
 
 ### Limitations
@@ -43,4 +43,4 @@ We can then identify the half-life pair that generates the greatest sharpes, and
 Nonetheless, any performance metrics calculated using the above backtest methodology would have been an overestimate due to the presence of slippage, transaction cost, and other execution-related inefficiencies.
 
 ### Contact
-If there are any comments/corrections that you think are appropriate for the above analysis, I would be happy to hear your thoughts at [kahhong.tai@gmail.com](kahhong.tai@gmail.com).
+I hope you have enjoyed reading the above piece of analysis. I would be happy to receive your thoughts/comments at [kahhong.tai@gmail.com](kahhong.tai@gmail.com).
