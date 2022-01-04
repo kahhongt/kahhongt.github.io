@@ -1,9 +1,10 @@
 ---
-title: "Epidemiological Modelling using Gaussian Processes"
-excerpt: "Gaussian Process Regression<br/><img src='/images/500x300.png'>"
+title: "Systematic Trading using FTX API"
+excerpt: "Trend-Following Strategy applied to ETH/USDT<br/><img src='/images/Trend-following Sharpe Field.png
+'>"
 collection: portfolio
 ---
 
-Introduction to Bayesian Inference using gaussian processes.
+Backtesting trend-following strategy on FTX
 
 
