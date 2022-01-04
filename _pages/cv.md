@@ -9,9 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
-<p align="left"><img src="/images/oxford-logo.png" width="100" height="100" /> <img src="/images/oxford-man-institute-logo.png" width="100" height="100" /></p>
 
 ### Education
+<p align="left"><img src="/images/oxford-logo.png" width="100" height="100" /> <img src="/images/oxford-man-institute-logo.png" width="100" height="100" /></p>
+
 * **B.A., M.Eng. in Information Engineering, University of Oxford** *(2014 to 2018)*
   * Grade: **First Class Honours, St John's College Casbard Scholarship**
   * **Oxford-Man Institute of Quantitative Finance**
@@ -23,6 +24,8 @@ redirect_from:
 
 
 ### Professional Experience
+<p align="left"><img src="/images/meta_logo.jpg" width="150" height="40" /></p>
+
 * **Data Scientist** at **Meta, London, United Kingdom** *(January 2022 to Present)*
 * **Quantitative Researcher** at **Dymon Asia Capital, Singapore** *(April 2021 to December 2021)*
 * **Data Scientist** at **Grab, Singapore** *(January 2019 to April 2021)*
