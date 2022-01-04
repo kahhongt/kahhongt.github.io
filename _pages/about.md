@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <p align="center">
-  <img src="/images/kognisee.jpeg" width="600" height="450" />
+  <img src="/images/kognisee.jpeg" width="800" height="600" />
 </p>
 <p align = "center">
 Lake Königssee, Germany
