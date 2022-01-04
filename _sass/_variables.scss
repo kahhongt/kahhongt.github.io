@@ -57,16 +57,18 @@ $ship-cove                  : #788dc5;
 $nepal                      : #92abc1;
 $link-water                 : #E8f0f9;
 $fiord                      : #424d62;
+$rolling-stone              : #7a8288;
    
 
-$body-color                 : #fff;
+$body-color                 : #fff;             // note this changes text colour
 $background-color           : #fff;             // # fff *note this changes background color
 $code-background-color      : $waikawa-gray;             // initially: #fafafa
 $code-background-color-dark : $light-gray;         // $light-gray
-$text-color                 : $link-water  // $dark-gray, $fiord
+$text-color                 : $link-water;  // $dark-gray, $fiord
 $border-color               : $lighter-gray;
 
-$primary-color              : #7a8288;
+
+$primary-color              : $waikawa-gray;
 $success-color              : #62c462;
 $warning-color              : #f89406;
 $danger-color               : #ee5f5b;
@@ -99,7 +101,7 @@ $xing-color                 : #006567;
 $link-color                 : $info-color;
 $link-color-hover           : mix(#000, $link-color, 25%);
 $link-color-visited         : mix(#fff, $link-color, 25%);
-$masthead-link-color        : $primary-color;
+$masthead-link-color        : $primary-color;   // $primary-color
 $masthead-link-color-hover  : mix(#000, $primary-color, 25%);
 
 
