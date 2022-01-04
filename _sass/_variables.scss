@@ -55,13 +55,15 @@ $lighter-gray               : mix(#fff, $gray, 90%);
 $waikawa-gray               : #546898;
 $ship-cove                  : #788dc5;
 $nepal                      : #92abc1;
+$link-water                 : #E8f0f9;
+$fiord                      : #424d62;
    
 
 $body-color                 : #fff;
 $background-color           : #fff;             // # fff *note this changes background color
-$code-background-color      : #fafafa;             // #fafafa
-$code-background-color-dark : $light-gray;
-$text-color                 : #424d62;  // $dark-gray
+$code-background-color      : $waikawa-gray;             // initially: #fafafa
+$code-background-color-dark : $light-gray;         // $light-gray
+$text-color                 : $link-water  // $dark-gray, $fiord
 $border-color               : $lighter-gray;
 
 $primary-color              : #7a8288;
