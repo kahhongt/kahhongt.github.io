@@ -31,7 +31,7 @@ We obtain the cumulative returns shown in Figure 1.
 Figure 1 clearly shows an underperformance with the initial half-life parameters. To gain a general understanding of performance, we iterate across a wide range of half-life parameters for fast and slow exponential moving averages - to generate a sharpe field. A green label indicates positive sharpe, while a red label indicates negative sharpe. We can then visually identify regions in the parameter space indicating a positive sharpe.
 
 <p align = "left"><em>Figure 2: Sharpe Field with varying fast and slow exponential half-lives</em></p>
-<p align="left"><img src="/images/Trend-following Sharpe Field.png" height="350" width="500" /></p>
+<p align="left"><img src="/images/Trend-following Sharpe Field.png" height="450" width="600" /></p>
 
 We can then identify the half-life pair that generates the greatest sharpes, and have found that the best combinations tend to involve a fast half-life of ~1, and a slow half-life from 40 to 48.
 
