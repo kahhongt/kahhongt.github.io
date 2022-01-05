@@ -35,7 +35,7 @@ redirect_from:
 
 ### Computing
 <p align="left">
-  <img src="/images/python_logo.png" width="40" height="40" /> &nbsp <img src="/images/r_language.png" width="45" height="40" /> &nbsp <img src="/images/CPP_logo.png" width="40" height="40" /> &nbsp <img src="/images/matlab_logo.png" width="40" height="40" />
+  <img src="/images/python_logo.png" width="40" height="40" /> &nbsp; <img src="/images/r_language.png" width="45" height="40" /> &nbsp; <img src="/images/CPP_logo.png" width="40" height="40" /> &nbsp; <img src="/images/matlab_logo.png" width="40" height="40" />
 </p>
 
 * Programming Languages: **Python, R, SQL, C++, MATLAB, Excel VBA**
