@@ -19,7 +19,7 @@ Here, we attempt to implement a backtest using **ETH Spot**, using data from **2
 6. Verify results using out-of-sample data
 
 ### Implementation
-Since we are using hourly OHLCV bars, the shortest trade interval must be > 1 hour. We backtest our strategy with the following initial parameters:
+Since we are using hourly OHLCV bars, the shortest trade interval must be > 1 hour. We backtest our strategy with the following initial arbitrary parameters:
 1. Fast Half-life: 1 Hour
 2. Slow Half-life: 5 Hours
 
@@ -33,14 +33,16 @@ Figure 1 clearly shows an underperformance with the initial half-life parameters
 <p align = "left"><em>Figure 2: Sharpe Field with varying fast and slow exponential half-lives</em></p>
 <p align="left"><img src="/images/Trend-following Sharpe Field.png" height="450" width="600" /></p>
 
-We can then identify the half-life pair that generates the highest sharpe ratios, and have found that the best combinations tend to involve a fast half-life of ~1, and a slow half-life from 40 to 48.
+We can then identify the regions in the parameter space that generates the highest sharpe ratios, and have found that the best combinations tend to involve a fast half-life of ~1, and a slow half-life from 40 to 48.
 
 <p align = "left"><em>Figure 3: Results Summary - Top 5 Sharpe </em></p>
 <p align="left"><img src="/images/Trend-following Results Table.png" height="150" width="210" /></p>
 
+Clearly, there is more room for exploration with different spot assets and candlestick intervals. The selection of asset to trade on would depend on factors such as market liquidity, performance, and fund mandate.
+
 ### Limitations
 
-Nonetheless, any performance metrics calculated using the above backtest methodology would have been an overestimate due to the presence of slippage, transaction cost, and other execution-related inefficiencies.
+Nonetheless, any performance metrics calculated using the above backtest methodology would have been an overestimate due to the presence of slippage, transaction cost, and other execution-related inefficiencies. It would thus be necessary to select parameters that would have resulted in the highest sharpes, as combinations of parameters which would lead to seemingly slightly positive sharpe ratios would actually be negative in practice.
 
 ### Contact
 I hope you have enjoyed reading the above piece of analysis. I would be happy to receive your thoughts/comments at [kahhong.tai@gmail.com](kahhong.tai@gmail.com).
