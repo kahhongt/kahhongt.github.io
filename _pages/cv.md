@@ -24,7 +24,7 @@ redirect_from:
 
 
 ### Professional Experience
-<p align="left"><img src="/images/meta_logo.jpg" width="150" height="40" /></p>
+<p align="left"><img src="/images/meta_logo.jpg" width="160" height="40" /></p>
 
 * **Data Scientist** at **Meta, London, United Kingdom** *(January 2022 to Present)*
 * **Quantitative Researcher** at **Dymon Asia Capital, Singapore** *(April 2021 to December 2021)*
@@ -34,6 +34,10 @@ redirect_from:
 * **Operations Intern** at **Entrepreneur First, Singapore** *(June 2016 to September 2016)*
 
 ### Computing
+<p align="left">
+  <img src="/images/python_logo.png" width="40" height="40" /> &nbsp <img src="/images/r_language.png" width="45" height="40" /> &nbsp <img src="/images/CPP_logo.png" width="40" height="40" /> &nbsp <img src="/images/matlab_logo.png" width="40" height="40" />
+</p>
+
 * Programming Languages: **Python, R, SQL, C++, MATLAB, Excel VBA**
 * Platforms and Tools: Presto, Hive, Google Cloud Platform, Microsoft Azure, Git
 * Data Visualisation: Tableau, Chartio, Power BI, Matplotlib, ggplot2, seaborn
