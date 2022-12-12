@@ -17,5 +17,3 @@ Lake Königssee, Germany
 
 Hi! I am Kah Hong! I am currently a Data Scientist based in London. I am interested in probabilistics modelling, machine learning and analytical solutions to inference problems in consumer technology, social phenomena, and the financial markets.
 
-### Contact
-I can be contacted at **kahhong.tai@gmail.com**
