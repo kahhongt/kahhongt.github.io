@@ -1,5 +1,5 @@
 ---
-title: "Systematic Trading using FTX API"
+title: "Simple Trend Following Strategy applied to ETH Spot"
 date: 2021-12-03
 excerpt: "Trend-Following Strategy applied to ETH Spot"
 collection: portfolio
