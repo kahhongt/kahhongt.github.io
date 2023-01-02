@@ -1,5 +1,5 @@
 ---
-title: "Asset Rebalancing using Deep Reinforcement Learning"
+title: "Asset Rebalancing using Deep Reinforcement Learning [WIP]"
 date: 2022-01-02
 excerpt: "Optimising Returns for a Crypto-Asset Portfolio"
 collection: portfolio
