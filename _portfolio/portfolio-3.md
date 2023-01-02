@@ -1,12 +1,11 @@
 ---
-title: "Asset Rebalancing using Deep Reinforcement Learning [WIP]"
-date: 2022-01-02
-excerpt: "Optimising Returns for a Crypto-Asset Portfolio"
+title: "Statistical Arbitrage for Highly-Correlated Crypto Assets [WIP]"
+date: 2023-01-02
+excerpt: "From Simple Price Ratio Analysis to Gaussian Process Application"
 collection: portfolio
 ---
 
 ### Background
-In this project, we explore the practical usage of Deep Reinforcement Learning in portfolio management. The goal is to build and backtest general reinforcement learning frameworks, typically applied in robotics
 
 
 ### Setup
