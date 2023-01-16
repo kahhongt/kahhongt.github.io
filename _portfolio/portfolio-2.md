@@ -1,48 +1,58 @@
 ---
-title: "Simple Trend Following Strategy applied to ETH Spot"
-date: 2021-12-03
-excerpt: "Trend-Following Strategy applied to ETH Spot"
+title: "First Principles Linear Regression for Prediction"
+date: 2022-06-03
+excerpt: "Linear Regression Applied to Predicting House Prices"
 collection: portfolio
 ---
 
 ### Background
-In this project, we explore the feasibility of backtesting a simple trend-following strategy using 2 exponentially-weighted moving averages. Moving averages are commonly used to generate systematic buy-sell-hold signals in traditional markets. When the fast exponential moving average > slow exponential moving average, this indicates upward price momentum, and the reverse would indicate downward price momentum.
+Despite the widespread usage and knowledge of linear regression as a machine learning technique for prediction/classification problems, we have found that proper implementation in Python remains scarce among popular, open-sourced libraries. Most libraries encourage a direct application of datasets into a linear model, without explicitly having checks on linear regression assumptions, nor do they provide any understanding of the need for any data transformations, or confidence intervals of projected results.
 
-Here, we attempt to implement a backtest using **ETH Spot**, using data from **28 March 2020 to 1 November 2021**.
+Hence, we built a **[lightweight Python module](https://github.com/kahhongt/linear-regression)** to evaluate datasets on their appropriateness for linear regression and perform necessary transformations. The objective is to generate a forecast within the sample space, with confidence intervals. Here we focus on the use case of Simple Linear Regression, with only one independent variable and one dependent variable.
 
-### Setup
-1. ETH Hourly OHLCV data is collected using the [FTX API](https://docs.ftx.com/#overview)
-2. Create slow and fast exponential moving averages using different half-lives
-3. Generate positions based on difference between the fast and slow exponential moving averages
-4. Backtest over sample period and check PnL metrics
-5. Generate half-life parameter field to identify regions of positive sharpe
-6. Verify results using out-of-sample data
+### Procedure
+1. Download training data from Kaggle: [Predicting House Prices](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques)
+2. Plot relevant charts to evaluate core assumptions of linear regression
+3. Perform statistical tests where relevant, such as the Durbin-Watson Test to check for Independence of Errors
+4. Analytically compute linear regression coefficients, standard error of regression, mean, and standard errors of coefficients
+5. Plot Forecast within sample space of training set, and introduce 95% confidence interval
 
 ### Implementation
-Since we are using hourly OHLCV bars, the shortest trade interval must be > 1 hour. We backtest our strategy with the following initial arbitrary parameters:
-1. Fast Half-life: 1 Hour
-2. Slow Half-life: 5 Hours
+First, we perform checks on the core linear regression assumptions of Linearity between variables, Normality of Error Distribution, Independence of Errors, and Homoscedasticity, and obtain the following charts:
+<p align = "left"><em>Figure 1: Checking on Linear Regression Assumptions</em></p>
+<p align="left"><img src="/images/LinReg Assumption Checks Pre.png"/></p>
 
-We obtain the cumulative returns shown in Figure 1.
+### Checking on Assumptions
+The module automatically generates the expected distributions of scatter points in each plot, which we will re-iterate below:
+1. **Independence of Errors**: In the Residual-independent variable plot, the scatter points should be randomly distributed and symmetically distributed around residual = 0 under all conditions. Additionally, we also check on the Durbin-Watson Score: A score between 1.5 and 2.5 means we can assume that the errors are not correlated.
+2. **Linearity**: In the residual-prediction plot, we want to check that the points are symmetrically distributed along the residual = 0 line, with roughly constant variance. A systematically-increasing/decreasing variance may indicate a non-linear relationship. This plot also allows us to check for homoscedasticity.
+3. **Homoscedasticity**: We check on the Scale-Location Plot, which is a plot of square-root standardised residuals against prediction. The standardised residuals should not systematically increase in any direction, indicating a constant variance.
+4. **Normality of Error Distribution**: We generate a Quantile-Quantile Plot (QQPlot) from first principles, comparing the actual percentile with the theoretical percentiles of a normal distribution. If the QQ Plot is close to a 45 degree line, this means that the error distribution more closely resembles a theoretical normal distribution.
 
-<p align = "left"><em>Figure 1: Cumulative Returns from Strategy vs Asset</em></p>
-<p align="left"><img src="/images/Trend-following Cumulative Returns.png"/></p>
+### Linear Regression Parameters
+In this example we aim to use the 'Year of Remodelling' as a predictor for Sale Prices. We perform a log-transformation of sale prices to correct for some heteroscedasticity observed at the right-end of the distribution, which implied an exponential increase in sale prices in the more recent years. After performing the linear regression, we obtain the following parameters:
+<p align = "left"><em>Figure 2: Fitted Linear Regression Parameters</em></p>
+<p align="left"><img src="/images/LinReg Parameters Pre.png"/></p>
 
-Figure 1 clearly shows an underperformance with the initial half-life parameters. To gain a general understanding of performance, we iterate across a wide range of half-life parameters for fast and slow exponential moving averages - to generate a sharpe field. A green label indicates positive sharpe, while a red label indicates negative sharpe. We can then visually identify regions in the parameter space indicating a positive sharpe.
+### Data Transformation
+Based on the assumption check plots above, we see some evidence of heteroscedastcity, as well as non-linearity from the residual-prediction plots. This prompts a log-transformation of the dependent variable. The linear regression coefficients also had very large standard errors, indicating a high level of uncertainty on the coefficients calculated. We re-run the assumption checks after performing the log transformation to obtain the following charts.
 
-<p align = "left"><em>Figure 2: Sharpe Field with varying fast and slow exponential half-lives</em></p>
-<p align="left"><img src="/images/Trend-following Sharpe Field.png" height="450" width="600" /></p>
+<p align = "left"><em>Figure 3: Checking on Linear Regression Assumptions (After Log Transformation)</em></p>
+<p align="left"><img src="/images/LinReg Assumption Checks.png"/></p>
 
-We can then identify the regions in the parameter space that generates the highest sharpe ratios, and have found that the best combinations tend to involve a fast half-life of ~1, and a slow half-life from 40 to 48.
+<p align = "left"><em>Figure 4: Fitted Linear Regression Parameters (After Log Transformation)</em></p>
+<p align="left"><img src="/images/LinReg Parameters.png"/></p>
 
-<p align = "left"><em>Figure 3: Results Summary - Top 5 Sharpe </em></p>
-<p align="left"><img src="/images/Trend-following Results Table.png" height="150" width="210" /></p>
+We can observe that performing the log-transformation has increased the adjusted R-squared, and has drastically reduced the standard errors of the linear coefficients.
 
-Clearly, there is more room for exploration with different spot assets and candlestick intervals. The selection of asset to trade on would depend on factors such as market liquidity, performance, and fund mandate.
+### Forecast
+After performing linear regression on the Log of the Sale Price, we obtain linear regression forecasts both in log(price) and price. Sale price projections were generated after applying an exponential to the forecasted log(prices). We compute the 95%s confidence intervals at each sample space by taking the product of the standard error of the forecast (consisting of the standard error of the regression and standard error of the mean at each point), as well as the Critical Z-Value for the 95% significance level. This provides lower and upper boundaries reflecting the confidence interval at each value of the independent variable.
+
+<p align = "left"><em>Figure 5: Linear Regression Forecast </em></p>
+<p align="left"><img src="/images/LinReg Forecast.png"/></p>
 
 ### Limitations
-
-Nonetheless, any performance metrics calculated using the above backtest methodology would have been an overestimate due to the presence of slippage, transaction cost, and other execution-related inefficiencies. It would thus be necessary to select parameters that would have resulted in the highest sharpes, as combinations of parameters which would lead to seemingly slightly positive sharpe ratios would actually be negative in practice.
+The objective of this module is to evaluate an independent variable against a dependent variable based on first principles, but uses only a single predictor. More features, and thus multiple-linear regression, should be used to obtain better results, especially with the [House Prices Dataset on Kaggle](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques) that was used.
 
 ### Contact
-I hope you have enjoyed reading the above piece of analysis. I would be happy to receive your thoughts/comments at [kahhong.tai@gmail.com](kahhong.tai@gmail.com).
+I hope you have enjoyed reading the above piece of analysis. [You can refer to the published module on Github](https://github.com/kahhongt/linear-regression). I would be happy to receive your thoughts/comments at [kahhong.tai@gmail.com](kahhong.tai@gmail.com).
