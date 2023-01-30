@@ -1,7 +1,7 @@
 ---
-title: "First Principles Linear Regression for Prediction"
+title: "Prediction using Linear Regression based on First Principles"
 date: 2022-06-03
-excerpt: "Linear Regression Applied to Predicting House Prices"
+excerpt: "Linear Regression Applied to House Prices Prediction"
 collection: portfolio
 ---
 
