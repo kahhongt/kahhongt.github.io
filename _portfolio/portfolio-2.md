@@ -55,4 +55,4 @@ After performing linear regression on the Log of the Sale Price, we obtain linea
 The objective of this module is to evaluate an independent variable against a dependent variable based on first principles, but uses only a single predictor. More features, and thus multiple-linear regression, should be used to obtain better results, especially with the [House Prices Dataset on Kaggle](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques) that was used.
 
 ### Contact
-I hope you have enjoyed reading the above piece of analysis. [You can refer to the published module on Github](https://github.com/kahhongt/linear-regression). I would be happy to receive your thoughts/comments at [kahhong.tai@gmail.com](kahhong.tai@gmail.com).
+I hope you have enjoyed reading the above piece of analysis. [You can refer to the published module on Github](https://github.com/kahhongt/linear-regression).
