@@ -26,18 +26,23 @@ From the above we see a number of candidates: BTCUSDT/ETHUSDT, LTCUSDT/ETHUSDT, 
 
 ### Implementation
 We split data for BTCUSDT/ETHUSDT from August 2017 to December 2022 into training and testing sets, and parameter selection was evaluated on the training set. Considering the BTCUSDT/ETHUSDT ratio, a short BTC position and long ETH position will be placed when the ratio exceeds a certain threshold X, while a long BTC position and short ETH position will be plaved when the ratio exceeds a certain threshold -X. When a position has been placed, it will be held until the ratio reverts to another threshold Y and -Y respectively. The thresholds were constructed using exponential moving averages and standard deviation, with an arbitrarily determined half-life parameter. We generate some portfolio statistics below in Figure 3, and some useful plots in Figure 4. In determining the thresholds, we set the confidence interval as 95%, and halflife as 40 days.
+<p align = "left"><em>Figure 3: Training Set Performance Statistics and Plots</em></p>
+<p align="left"><img src="https://user-images.githubusercontent.com/33640882/222990400-71f1d15c-4a45-4e9f-8252-c3f3de436144.png"/></p>
 
-<p align = "left"><em>Figure 3: Training Set Performance Statistics</em></p>
-<p align="left"><img src="https://user-images.githubusercontent.com/33640882/222988890-e8e28202-09e3-419e-b11e-1727bd026f2d.png"/></p>
+After which, we re-run the trading strategy against the testset and obtained the following results.
+<p align = "left"><em>Figure 4: Training Set Performance Statistics and Plots</em></p>
+<p align="left"><img src="https://user-images.githubusercontent.com/33640882/222990452-0fb748ab-6793-4e26-9d7c-64c25e2c077a.png"/></p>
+Clearly the model has been overfit onto the training set and underperformed on the test set. This may be indicative of a regime change.
 
-<p align = "left"><em>Figure 4: Training Set Performance Plots</em></p>
-<p align="left"><img src="https://user-images.githubusercontent.com/33640882/222989179-e073387f-69a4-4dfe-b622-3187df5afc19.png"/></p>
+Next, we investigate a long-short momentum strategy.
 
+<p align = "left"><em>Figure 5: Momentum Strategy Training Set Performance Statistics and Plots</em></p>
+<p align="left"><img src="https://user-images.githubusercontent.com/33640882/222990857-16f8f33e-877e-4a8a-ab8a-a8b8496e645c.png"/></p>
 
+<p align = "left"><em>Figure 6: Momentum Strategy Training Set Performance Statistics and Plots</em></p>
+<p align="left"><img src="https://user-images.githubusercontent.com/33640882/222990892-1a6761a3-3a3a-4e32-a4cc-c91c26eb7e2c.png"/></p>
 
-
-
-
+[TBC]
 
 ### Limitations
 
