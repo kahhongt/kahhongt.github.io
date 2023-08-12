@@ -24,7 +24,7 @@ redirect_from:
 
 
 ### Professional Experience
-<p align="left"><img src="/images/meta_logo.jpg" width="160" height="40" /></p>
+<p align="left"><img src="/images/meta_logo.jpg" width="140" height="35" /></p>
 
 * **Data Scientist** at **Meta, London, United Kingdom** *(January 2022 to Present)*
 * **Quantitative Researcher** at **Dymon Asia Capital, Singapore** *(April 2021 to December 2021)*
