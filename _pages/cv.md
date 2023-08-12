@@ -15,10 +15,10 @@ redirect_from:
 
 * **B.A., M.Eng. in Information Engineering, University of Oxford** *(2014 to 2018)*
   * Grade: **First Class Honours, St John's College Casbard Scholarship**
-* **Research at Oxford-Man Institute of Quantitative Finance**
+* **Machine Learning Research at Oxford-Man Institute of Quantitative Finance**
   * Bayesian Inference, Gaussian Process Modelling of Geospatial Time Series
   * Non-convex Hyperparameter Optimisation using Numerical Integration
-* **Coursework at Oxford Saïd Business School**
+* **Finance Coursework at Oxford Saïd Business School**
   * Engineering, Entrepreneurship and Management Pathway
   * Oxford Finance Lab
 
