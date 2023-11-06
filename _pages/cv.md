@@ -24,7 +24,7 @@ redirect_from:
 
 
 ### Professional Experience
-<p align="left"><img src="/images/meta_logo.jpg" width="140" height="35" /></p>
+<p align="left"><img src="/images/meta_logo.jpg" width="150" height="38" /></p>
 
 * **Quantitative Researcher** at **Brevan Howard Asset Management LLP., Geneva, Switzerland** *(August 2023 to Present)*
 * **Data Scientist** at **Meta, London, United Kingdom** *(January 2022 to August 2023)*
