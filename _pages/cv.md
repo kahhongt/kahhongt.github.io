@@ -26,7 +26,8 @@ redirect_from:
 ### Professional Experience
 <p align="left"><img src="/images/meta_logo.jpg" width="140" height="35" /></p>
 
-* **Data Scientist** at **Meta, London, United Kingdom** *(January 2022 to Present)*
+* **Quantitative Researcher** at **Brevan Howard Asset Management LLP., Geneva, Switzerland** *(August 2023 to Present)*
+* **Data Scientist** at **Meta, London, United Kingdom** *(January 2022 to August 2023)*
 * **Quantitative Researcher** at **Dymon Asia Capital, Singapore** *(April 2021 to December 2021)*
 * **Data Scientist** at **Grab, Singapore** *(January 2019 to April 2021)*
 * **Investment Banking Summer Analyst** at **Credit Suisse, Singapore** *(June 2018 to August 2018)*
