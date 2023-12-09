@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+Hi! I am Kah Hong! I am currently a Quantitative Researcher based in Geneva, Switzerland. I was previously a Data Scientist in London, UK. I am interested in probabilistics modelling, machine learning and analytical solutions to inference problems in consumer technology, social phenomena, and the financial markets.
+
 <p align="center">
   <img src="/images/kognisee.jpeg" width="800" height="600" />
 </p>
@@ -15,5 +17,5 @@ redirect_from:
 Lake Königssee, Germany
 </p>
 
-Hi! I am Kah Hong! I am currently a Data Scientist based in London. I am interested in probabilistics modelling, machine learning and analytical solutions to inference problems in consumer technology, social phenomena, and the financial markets.
+Once of the most enchanting places I have ever visited in Europe, and it remained very impressionable to me till this day.
 
