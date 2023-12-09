@@ -24,7 +24,7 @@ redirect_from:
 
 
 ### Professional Experience
-<p align="left"><img src="/images/meta_logo.jpg" width="150" height="38" /></p>
+<p align="left"><img src="/images/bh_logo.png" width="360" height="23" /></p>
 
 * **Quantitative Researcher** at **Brevan Howard Asset Management LLP., Geneva, Switzerland** *(August 2023 to Present)*
 * **Data Scientist** at **Meta, London, United Kingdom** *(January 2022 to August 2023)*
@@ -40,6 +40,6 @@ redirect_from:
 </p>
 
 * Programming Languages: **Python, R, SQL, C++, MATLAB, Excel VBA**
-* Platforms and Tools: Presto, Hive, Google Cloud Platform, Microsoft Azure, Git
+* Platforms and Tools: Presto, Hive, Google Cloud Platform, Microsoft Azure, Git, Bloomberg
 * Data Visualisation: Tableau, Chartio, Power BI, Matplotlib, ggplot2, seaborn
 * Libraries: scikit-learn, SciPy, Tensorflow, Statsmodels, NumPy, Pandas, Spark
