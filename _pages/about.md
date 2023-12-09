@@ -17,5 +17,5 @@ Hi! I am Kah Hong! I am currently a Quantitative Researcher based in Geneva, Swi
 Lake Königssee, Germany
 </p>
 
-Once of the most enchanting places I have ever visited in Europe, and it remained very impressionable to me till this day.
+One of the most enchanting places I have ever visited in Europe, and it remained very impressionable to me till this day.
 
