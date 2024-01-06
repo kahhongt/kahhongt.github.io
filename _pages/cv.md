@@ -42,4 +42,4 @@ redirect_from:
 * Platforms and Tools: Presto, Hive, Google Cloud Platform, Microsoft Azure, Git, Bloomberg
 * Data Visualisation: Tableau, Chartio, Power BI, Matplotlib, ggplot2, seaborn
 * Libraries: scikit-learn, SciPy, Tensorflow, Statsmodels, NumPy, Pandas, Spark
-* Modelling: Traditional ML, Deep Learning, Time Series Analysis, Bayesian Inference, Foundation Models
+* Modelling: Traditional ML, Deep Learning, Time Series Analysis, Bayesian Inference, NLP, Foundation Models
