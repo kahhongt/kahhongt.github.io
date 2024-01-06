@@ -17,10 +17,9 @@ redirect_from:
   * Grade: **First Class Honours, St John's College Casbard Scholarship**
 * **Machine Learning Research at Oxford-Man Institute of Quantitative Finance**
   * Bayesian Inference, Gaussian Process Modelling of Geospatial Time Series
-  * Non-convex Hyperparameter Optimisation using Numerical Integration
+  * Non-convex Hyperparameter Optimisation via Numerical Integration
 * **Finance Coursework at Oxford Saïd Business School**
-  * Engineering, Entrepreneurship and Management Pathway
-  * Oxford Finance Lab
+  * Engineering, Entrepreneurship and Management Pathway, Oxford Finance Lab
 
 
 ### Professional Experience
@@ -34,7 +33,7 @@ redirect_from:
 * **Real Estate Investments Intern** at **GIC, London, United Kingdom** *(June 2017 to August 2017)*
 * **Operations Intern** at **Entrepreneur First, Singapore** *(June 2016 to September 2016)*
 
-### Computing
+### Computing and Frameworks
 <p align="left">
   <img src="/images/python_logo.png" width="40" height="40" /> &nbsp; <img src="/images/r_language.png" width="45" height="40" /> &nbsp; <img src="/images/CPP_logo.png" width="40" height="40" /> &nbsp; <img src="/images/matlab_logo.png" width="40" height="40" />
 </p>
@@ -43,3 +42,4 @@ redirect_from:
 * Platforms and Tools: Presto, Hive, Google Cloud Platform, Microsoft Azure, Git, Bloomberg
 * Data Visualisation: Tableau, Chartio, Power BI, Matplotlib, ggplot2, seaborn
 * Libraries: scikit-learn, SciPy, Tensorflow, Statsmodels, NumPy, Pandas, Spark
+* Modelling: Traditional ML, Deep Learning, Time Series Analysis, Bayesian Inference, Foundation Models
