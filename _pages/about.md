@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Kah Hong! I am currently a Quantitative Researcher based in Geneva, Switzerland. I was previously a Data Scientist in London, UK. I am interested in probabilistics modelling, machine learning and analytical solutions to inference problems in consumer technology, social phenomena, and the financial markets. I gravitate towards developing solutions with long-term stability and reliability in mind, and learn by breaking down problems and understanding technical concepts from first principles.
+Hi! I am Kah Hong! I am a Quantitative Researcher based in Geneva, currently applying deep learning and natural language processing techniques in global macro trading. I was previously a Data Scientist in London, UK. I am interested in probabilistics modelling, machine learning and analytical solutions to inference problems in consumer technology, social phenomena, and the financial markets. I gravitate towards developing solutions with long-term stability and reliability in mind, and learn by breaking down problems and understanding technical concepts from first principles.
 
 <p align="center">
   <img src="/images/kognisee.jpeg" width="800" height="600" />
