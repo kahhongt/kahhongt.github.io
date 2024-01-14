@@ -1,7 +1,7 @@
 ---
 title: 'A Note on Convexity'
 date: 2024-01-09
-permalink: /posts/2024/01/blog-post-2/
+permalink: /posts/2024/01/convexity/
 tags:
 
 ---
