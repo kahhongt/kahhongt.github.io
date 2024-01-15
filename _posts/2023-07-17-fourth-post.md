@@ -6,4 +6,4 @@ tags:
 
 ---
 
-Inaction is an insiduous form of risk (Sam Altman). You lose all the options you do not work to explore.
+Inaction is an insiduous form of risk (Sam Altman). Only by moving forward can we see the greater universe of opportunities ahead.
