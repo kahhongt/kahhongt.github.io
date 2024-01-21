@@ -15,7 +15,9 @@ In my framework I postulate that the optimal course of action and state of mind 
 | **Strong Conviction**|1. Optimal State with Momentum, Not Regrettable|2. Lack of Execution, Unproductive, Regrettable|
 | **Weak Conviction**|3. Misdirected Productive Effort, Regrettable |4. Unproductive, Not Regrettable|
 
-We see that only in 2 cases whereby the decision becomes non-regrettable: Strong Conviction + Aggressive Action, and Weak Conviction + Gross Inaction. This is not to say that the Inaction + Weak Conviction cases necessarily leads to a worse outcome than the former case. This framework pertains to a certain deterministic course of action that has been identified, and the lack of productive effort invested in an activity without conviction actually means mental and time resources could have been committed elsewhere with greater probability of success.
+We see that only in 2 cases whereby the decision becomes non-regrettable: Strong Conviction + Aggressive Action, and Weak Conviction + Gross Inaction. This is not to say that the Inaction + Weak Conviction cases necessarily leads to a worse outcome than the former case. This framework pertains to a certain deterministic course of action that has been identified, and the lack of productive effort invested in an activity without conviction actually means mental and time resources could have been committed elsewhere with greater levels of conviction.
+
+Outcomes are irrelevant to this decision-making framework: while a successful outcome is often not a regrettable one, a failed outcome may or may not be regrettable, depending on intent and conviction. Also because - outcomes simply cannot be predicted at this stage.
 
 The main problem lies in the middle, where there is either a lack of conviction or a lack of action. These two states lead to regrettable outcomes in different ways, but it is easy to imagine the majority of adults in this category. Some examples below:
 
