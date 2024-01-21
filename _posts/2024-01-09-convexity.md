@@ -1,5 +1,5 @@
 ---
-title: 'A Note on Convexity'
+title: 'Convexity'
 date: 2024-01-09
 permalink: /posts/2024/01/convexity/
 tags:
