@@ -6,7 +6,7 @@ tags:
 
 ---
 
-Learnt an inspirational quote from Sam Altman today: Inaction is an insiduous form of risk. Only by moving forward can we see and explore the wide universe of opportunities ahead. Have found myself starting to appreciate the complexity of risk management in personal or career decision making; a state of action or inaction both involves accepting a level of risk, and have therefore narrowed down the problem to 2 concepts: Action and Conviction.
+Learnt an inspirational quote from Sam Altman today: Inaction is an insiduous form of risk. Only by moving forward can we see and explore the wide universe of opportunities ahead. Have found myself starting to appreciate the complexity of risk management in personal or career decision making; a state of action or inaction both involves accepting a level of risk, and have therefore decided to restructure the problem into 2 concepts: Action and Conviction.
 
 In my framework I postulate that the optimal course of action and state of mind in any scenario (personal, professional or otherwise) often lies in two extremes: either aggressive action taken towards a path of conviction, or inaction where there is a lack of conviction. It was tempting to explore an MBA-style 2x2 axis to professionally illustrate the point:
 
