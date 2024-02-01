@@ -6,4 +6,4 @@ tags:
 
 ---
 
-Explore personal and professional boundaries - understand what you can accept and not accept, from both personal and professional viewpoints.
+Understand what your personal and professional boundaries are, while optimising for rapid personal development. If you do not set what your boundaries are, someone else will set them for you - in work and in life. Never let someone else have control over your effort, mind-space or how you spend your time.
