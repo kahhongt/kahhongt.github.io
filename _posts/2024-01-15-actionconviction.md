@@ -24,26 +24,11 @@ The main problem lies in the middle, where there is either a lack of conviction 
 2. **Lack of Execution**: Procrastination; inability to act, lack of willingness/courage to act; giving excuses for inaction; fear of external consequences, etc  
 3. **Misdirected Effort**: Trapped in a career without identifiable long-term prospects; doing work on another's direction; disagreement with team decision, etc
 
-One could then argue that State (2) is a redundant case: assuming all humans are capable of acting on intent, surely this just means when there is gross inaction, there has to be a lack of sufficient conviction? Maybe there is some conviction, but due to one or multiple reasons, the level of conviction is insufficient to garner the courage or resources to pursue the desired course of action. Hence, as long as this assumptionn holds, there should only be 3 states, not 4.
+One could then argue that State (2) is a redundant case: assuming all humans are capable of acting on intent, surely this just means when there is gross inaction, there has to be a lack of sufficient conviction? Maybe there is some conviction, but due to one or multiple reasons, the level of conviction is insufficient to garner the courage or resources to pursue the desired course of action. Hence, as long as this assumption holds, there should only be 3 states, not 4.
 
-State 3 is interesting because it surfaces the fact that conviction as a concept is multi-layered and multi-faceted. Do many people inspire to be doctors because they possess high conviction towards becoming a doctor? Or could it be due to their desire to save lives? Some may have strong convictions because they want to earn a decent living, or make their parents and community proud? A wide variety of convictions and reasons can lead to the same course of action of (becoming a doctor), but clearly the level of regret differs based on circumstances. What happens when there is suddenly a huge supply of trained doctors in the market leading to a fall in wages for doctors? Why would some doctors then decide to leave to pursue something more lucrative, and what would be the reasons why others would remain in the field?
+State 3 is interesting because it surfaces the fact that conviction as a concept is multi-layered and multi-faceted. Do many people inspire to be doctors because they possess high conviction towards becoming a doctor? Or could it be due to their desire to save lives? Some may have strong convictions because they want to earn a decent living, or make their parents and community proud? A wide variety of convictions and reasons can lead to the same course of action of (becoming a doctor), but clearly the level of regret differs based on circumstances. What happens when there is suddenly a huge supply of trained doctors in the market leading to a fall in wages for doctors? Why would some doctors then decide to leave to pursue something more lucrative, and what would be the reasons why others would remain in the field? Salaries may have been a huge proportion of the conviction of a specific doctor and not the other, henceforth leading to very different career decisions between different people.
 
-This means understanding the composition of one's conviction towards a specific goal is critical. More on this.
+Understanding the make-up of one's conviction is thus critical, and requires a deep level of emotional and intellectual honesty, and relentless self-reflection. This conviction can then only be realistically tested when times are tough, rather than when times are easy. Hence, true conviction tends to be innate and borne out of deeply personal reasons, and it would never have been affected by extenuating factors simply brought about by the passage of time. My strong opinion would be to go slow initially and identify a cause, business or social change that is fundamental towards building up conviction, and once that is accomplished any action borne out of this unyielding state of conviction would still lead to myriad successful or unsuccessful outcomes, but none regrettable.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Put simply, this was a note to self to pursue and act on only opportunities with strong, unshakable conviction.
 
