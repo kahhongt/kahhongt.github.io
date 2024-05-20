@@ -30,5 +30,5 @@ State 3 is interesting because it surfaces the fact that conviction as a concept
 
 Understanding the make-up of one's conviction is thus critical, and requires a deep level of emotional and intellectual honesty, and relentless self-reflection. This conviction can then only be realistically tested when times are tough, rather than when times are easy. Hence, true conviction tends to be innate and borne out of deeply personal reasons, and it would never have been affected by extenuating factors simply brought about by the passage of time. My strong opinion would be to go slow initially and identify a cause, business or social change that is fundamental towards building up conviction, and once that is accomplished any action borne out of this unyielding state of conviction would still lead to myriad successful or unsuccessful outcomes, but none regrettable.
 
-Put simply, this was a note to self to pursue and act on only opportunities with strong, unshakable conviction.
+Put simply, this was a note to self to pursue and act on only opportunities with strong, unshakable conviction. Allocate zero time on tasks and objectives that do not align with your long-term vision.
 
