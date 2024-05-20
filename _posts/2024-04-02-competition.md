@@ -1,7 +1,7 @@
 ---
 title: 'Competition as Validation'
 date: 2024-04-02
-permalink: /posts/2024/04/competitionasvalidation/
+permalink: /posts/2024/04/competition/
 tags:
 
 ---
