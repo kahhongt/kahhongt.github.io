@@ -12,11 +12,11 @@ For them to draw this conclusion has been incredibly surprising for me - for two
 
 Some examples here:  
 
-[Pessimistic Outlook by Morgan Stanley](https://fortune.com/2023/05/11/ai-investing-human-guidance-morgan-stanley/)
+[**Pessimistic Outlook by Morgan Stanley**](https://fortune.com/2023/05/11/ai-investing-human-guidance-morgan-stanley/)
 
 Morgan Stanley surveyed their investors and financial advisors and determined that customers still "prefer a human touch for the time being", and "80% of survey respondents say AI would never completely replace human guidance". Clearly this is flawed surveying, given that these financial advisors have a vested interest in portraying their relevance and thus keeping their jobs.
 
-[Why AI won't replace fund managers and equity analysts anytime soon](https://valueinvesting.substack.com/p/ainono/)
+[**Why AI won't replace fund managers and equity analysts anytime soon**](https://valueinvesting.substack.com/p/ainono/)
 
 The author here showed a few zero-shot prompting examples of how OpenAI Chat failed in providing research output and determined that some calculations and insights required "deep industry knowledge to perform", and that it still requires "significant guidance to produce the desired results". I was flabbergasted by how the author used such a shallow usage of the ChatGPT interface to draw the conclusion that AI replacing humans is "decades away". Surely the value of such models lie in the orchestration of various contextual, memory and reasoning components; a zero/single-shot prompting of models was never going to cut it. Also it turned out that the author is also a fundamental equity analyst.
 
