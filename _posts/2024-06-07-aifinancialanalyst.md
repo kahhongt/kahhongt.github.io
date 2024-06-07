@@ -10,7 +10,8 @@ Recently I have been reading through a handful of articles echoing a similar vei
 
 For them to draw this conclusion has been incredibly surprising for me - for two main reasons. Firstly, this pessimistic outlook contradicts the traditionally optimistic, narrative-driven view of equity analysts. Secondly, when digging deeper into empirical research conducted to support the notion, the conclusion appears to have been conceived by 'surveying' people industry.
 
-Some examples here:
+Some examples here:  
+
 [Pessimistic Outlook by Morgan Stanley](https://fortune.com/2023/05/11/ai-investing-human-guidance-morgan-stanley/)
 
 Morgan Stanley surveyed their investors and financial advisors and determined that customers still "prefer a human touch for the time being", and "80% of survey respondents say AI would never completely replace human guidance". Clearly this is flawed surveying, given that these financial advisors have a vested interest in portraying their relevance and thus keeping their jobs.
