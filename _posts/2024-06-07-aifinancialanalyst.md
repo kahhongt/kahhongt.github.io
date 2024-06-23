@@ -6,25 +6,24 @@ tags:
 
 ---
 
-Recently I have been reading through a handful of articles echoing a similar vein of thought: That due to the limitations of artificial intelligence, AI will not be able to replace traditional financial analysts anytime soon. According to one author he postulates that human intelligence is still decades ahead of AI automated fundamental investing. However, I have found that despite all the confidence that have been seemingly portrayed in this articles, the rationales for, as well as the empirical evidence provided to support this notion has been incredibly weak.
+I have recently read several articles echoing a similar sentiment: due to the limitations of artificial intelligence, AI will not replace traditional financial analysts anytime soon. One author suggests that human intelligence is still decades ahead of AI in automated fundamental investing. However, despite the confidence seemingly portrayed in these articles, the rationales and empirical evidence provided to support this notion have been weak.
 
-For them to draw this conclusion has been incredibly surprising for me - for two main reasons. Firstly, this pessimistic outlook contradicts the traditionally optimistic, narrative-driven view of equity analysts. Secondly, when digging deeper into empirical research conducted to support the notion, the conclusion appears to have been conceived by 'surveying' people primarily in the financial industry who know little about AI.
+There are two main reasons why this conclusion is surprising. First, this pessimistic outlook contradicts the traditionally optimistic, narrative-driven view of equity analysts. Second, a closer look at the empirical research used to support this notion reveals that the conclusions were drawn by surveying traditional professionals in the financial industry who may know little about AI.
 
-Some examples here:  
+Consider these examples:
 
-[**Pessimistic Outlook by Morgan Stanley**](https://fortune.com/2023/05/11/ai-investing-human-guidance-morgan-stanley/)
+1. [**Pessimistic Outlook by Morgan Stanley**](https://fortune.com/2023/05/11/ai-investing-human-guidance-morgan-stanley/)
+   Morgan Stanley surveyed their investors and financial advisors, finding that customers still "prefer a human touch for the time being," with "80% of survey respondents saying AI would never completely replace human guidance." This survey is flawed, given that financial advisors have a vested interest in portraying their relevance in the industry.
 
-Morgan Stanley surveyed their investors and financial advisors and determined that customers still "prefer a human touch for the time being", and "80% of survey respondents say AI would never completely replace human guidance". Clearly this is flawed surveying, given that these financial advisors have a vested interest in portraying their relevance and thus keeping their jobs.
+2. [**Why AI won't replace fund managers and equity analysts anytime soon**](https://valueinvesting.substack.com/p/ainono/)
+   The author presents examples where OpenAI Chat failed to provide research output and concludes that some calculations and insights require "deep industry knowledge" and "significant guidance to produce the desired results." It is astonishing that the conclusion—that AI replacing human financial analysts is "decades away"—was drawn from such shallow usage of the ChatGPT interface.
 
-[**Why AI won't replace fund managers and equity analysts anytime soon**](https://valueinvesting.substack.com/p/ainono/)
+The value of AI models lies in the orchestration of various contextual, memory, and reasoning components; a zero/single-shot prompting of models was never going to sufficiently consider contextual information and incorporate enough reasoning capability to generate credible market insights.
 
-The author here showed a few zero-shot prompting examples of how OpenAI Chat failed in providing research output and determined that some calculations and insights required "deep industry knowledge to perform", and that it still requires "significant guidance to produce the desired results". I was flabbergasted by how the author used such a shallow usage of the ChatGPT interface to draw the conclusion that AI replacing humans is "decades away". Surely the value of such models lie in the orchestration of various contextual, memory and reasoning components; a zero/single-shot prompting of models was never going to cut it. Also it turned out that the author is also a fundamental equity analyst.
+I strongly believe it is premature to conclude that AI will never be able to replace humans in making effective investment decisions, especially without a clear understanding of where this technology will go. Additionally, it can be challenging for traditional financial analysts to accept that this prospect could fundamentally undermine their propriety and self-worth.
 
+Moreover, research institutions or tech-enabled fund managers have little incentive to broadcast the success of any fully autonomous AI agent in trading, as it risks increasing competition and the alpha being arbitraged away. Thus, even if a model were to work effectively, it would not be publicly acknowledged, as it would quickly cease to work in practice.
 
-I believe it is way, way too early to make this conclusion that AI will never be able to replace humans in making an effective investment decisions, especially without sufficient knowledge of where this technology will go. Additionally, it is also not difficult to imagine that for traditional financial analysts or portfolio managers who have spent years or decades selling their time to make a living, it can be challenging to accept that this prospect, at worst, represents a fundamental upheaval in their propriety and self-worth.
+Current AI research and data platform companies aim to enhance the abilities of traditional, fundamental fund managers. However, if there is a technical case for an orchestrated AI workflow directly leading to investment decisions, the next frontier for AI in finance becomes clear: a fully autonomous AI-driven research analyst.
 
-Current "AI" research and data platform companies serve to elevate the ability of traditional, fundamental fund managers. But what if there is a technical case for an orchestrated AI workflow directly leading to investment decisions? It then becomes clear what the next frontier for AI in finance might be - a full agency AI-driven research analyst.
-
-In the process of compiling more articles to critic. More on this.
-
-
+I am in the process of compiling more articles to critique. More on this soon.
