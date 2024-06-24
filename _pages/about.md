@@ -8,6 +8,18 @@ redirect_from:
   - /about.html
 ---
 
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-0N02QYVJTL"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-0N02QYVJTL');
+</script>
+
+
 Hi! I am Kah Hong! I am a Quantitative Researcher based in Geneva, currently applying deep learning and natural language processing techniques in global macro trading. I was previously a Data Scientist in London, UK. I am interested in probabilistics modelling, machine learning and analytical solutions to inference problems in consumer technology, social phenomena, and the financial markets. I gravitate towards developing solutions with long-term stability and reliability in mind, and learn by breaking down problems and understanding technical concepts from first principles.
 
 <p align="center">
