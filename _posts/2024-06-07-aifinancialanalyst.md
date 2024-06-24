@@ -26,4 +26,4 @@ Moreover, research institutions or tech-enabled fund managers have little incent
 
 Current AI research and data platform companies aim to enhance the abilities of traditional, fundamental fund managers. However, if there is a technical case for an orchestrated AI workflow directly leading to investment decisions, the next frontier for AI in finance becomes clear: a fully autonomous AI-driven research analyst.
 
-I am in the process of compiling more articles to critique. More on this soon.
+Finally an interesting problem to sink my teeth into.
