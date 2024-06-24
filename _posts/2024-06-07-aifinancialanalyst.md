@@ -12,10 +12,10 @@ There are two main reasons why this conclusion is surprising. First, this pessim
 
 Consider these examples:
 
-1. [**Pessimistic Outlook by Morgan Stanley**](https://fortune.com/2023/05/11/ai-investing-human-guidance-morgan-stanley/)
+1. [**Pessimistic Outlook by Morgan Stanley**](https://fortune.com/2023/05/11/ai-investing-human-guidance-morgan-stanley/)  
    Morgan Stanley surveyed their investors and financial advisors, finding that customers still "prefer a human touch for the time being," with "80% of survey respondents saying AI would never completely replace human guidance." This survey is flawed, given that financial advisors have a vested interest in portraying their relevance in the industry.
 
-2. [**Why AI won't replace fund managers and equity analysts anytime soon**](https://valueinvesting.substack.com/p/ainono/)
+2. [**Why AI won't replace fund managers and equity analysts anytime soon**](https://valueinvesting.substack.com/p/ainono/)  
    The author presents examples where OpenAI Chat failed to provide research output and concludes that some calculations and insights require "deep industry knowledge" and "significant guidance to produce the desired results." It is astonishing that the conclusion—that AI replacing human financial analysts is "decades away"—was drawn from such shallow usage of the ChatGPT interface.
 
 The value of AI models lies in the orchestration of various contextual, memory, and reasoning components; a zero/single-shot prompting of models was never going to sufficiently consider contextual information and incorporate enough reasoning capability to generate credible market insights.
