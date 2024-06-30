@@ -20,7 +20,7 @@ Consider these examples:
 
 The value of AI models lies in the orchestration of various contextual, memory, and reasoning components; a zero/single-shot prompting of models was never going to sufficiently consider contextual information and incorporate enough reasoning capability to generate credible market insights.
 
-I strongly believe it is premature to conclude that AI will never be able to replace humans in making effective investment decisions, especially without a clear understanding of where this technology will go.
+I strongly believe it is premature to conclude that AI will never be able to replace humans in making effective investment decisions, especially without a clear understanding of where this technology will go. Furthermore, there is a common argument against the use of AI in financial analysis, which is that the technology is not ready for fully independent investment decision making. But who can we expect the making the technology 'ready'? Certainly not OpenAI, Anthropic, or Meta, as the foundation models builders cannot be expected to allocate their intellectual or compute resources towards a cause as narrow and self-serving as investment management. As described by Elon Musk, technology does not advance by itself, and can only do so through sincere and thoughtful research over long periods of time. It is up to individuals to make AI ready for investment decision making.
 
 Moreover, research institutions or tech-enabled fund managers have little incentive to broadcast the success of any fully autonomous AI agent in trading, as it risks increasing competition and the alpha being arbitraged away. Thus, even if a model were to work effectively, it would not be publicly acknowledged, as it would quickly cease to work in practice.
 
