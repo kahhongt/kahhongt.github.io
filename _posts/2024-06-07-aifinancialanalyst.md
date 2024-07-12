@@ -6,6 +6,8 @@ tags:
 
 ---
 
+***Disclaimer: Opinions expressed are strictly my own, and do not represent any firm or institution.**
+
 I have recently read several articles echoing a similar sentiment: due to the limitations of artificial intelligence, AI will not replace traditional financial analysts anytime soon. One author suggests that human intelligence is still decades ahead of AI in automated fundamental investing. However, despite the confidence seemingly portrayed in these articles, the rationales and empirical evidence provided to support this notion have been weak.
 
 There are two main reasons why this conclusion is surprising. First, this pessimistic outlook contradicts the traditionally optimistic, narrative-driven view of equity analysts. Second, a closer look at the empirical research used to support this notion reveals that the conclusions were drawn by surveying traditional professionals in the financial industry who may know little about AI.
