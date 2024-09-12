@@ -1,12 +1,9 @@
 ---
-title: 'AI Financial Analyst?'
+title: "AI Financial Analyst?"
 date: 2024-06-07
 permalink: /posts/2024/06/aifinancialanalyst/
 tags:
-
 ---
-
-**Opinions expressed are strictly my own, and do not belong to any firm or institution.**
 
 I have recently read several articles echoing a similar sentiment: due to the limitations of artificial intelligence, AI will not replace traditional financial analysts anytime soon. One author suggests that human intelligence is still decades ahead of AI in automated fundamental investing. However, despite the confidence seemingly portrayed in these articles, the rationales and empirical evidence provided to support this notion have been weak.
 
@@ -30,4 +27,4 @@ Current AI research and data platform companies aim to enhance the abilities of 
 
 Now, this could really be an interesting endeavour for machine learning researchers to work on.
 
-***Disclaimer: Opinions expressed are strictly my own, and do not represent any firm or institution.**
+**\*Disclaimer: Opinions expressed are strictly my own, and do not represent any firm or institution.**
