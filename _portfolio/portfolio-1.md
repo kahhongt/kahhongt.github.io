@@ -6,11 +6,13 @@ collection: portfolio
 ---
 
 ### Background
+
 In this project, we explore the feasibility of backtesting a simple trend-following strategy using 2 exponentially-weighted moving averages. Moving averages are commonly used to generate systematic buy-sell-hold signals in traditional markets. When the fast exponential moving average > slow exponential moving average, this indicates upward price momentum, and the reverse would indicate downward price momentum.
 
 Here, we attempt to implement a backtest using **ETH Spot**, using data from **28 March 2020 to 1 November 2021**.
 
 ### Setup
+
 1. ETH Hourly OHLCV data is collected using the [FTX API](https://docs.ftx.com/#overview)
 2. Create slow and fast exponential moving averages using different half-lives
 3. Generate positions based on difference between the fast and slow exponential moving averages
@@ -19,7 +21,9 @@ Here, we attempt to implement a backtest using **ETH Spot**, using data from **2
 6. Verify results using out-of-sample data
 
 ### Implementation
+
 Since we are using hourly OHLCV bars, the shortest trade interval must be > 1 hour. We backtest our strategy with the following initial arbitrary parameters:
+
 1. Fast Half-life: 1 Hour
 2. Slow Half-life: 5 Hours
 
@@ -43,6 +47,3 @@ Clearly, there is more room for exploration with different spot assets and candl
 ### Limitations
 
 Nonetheless, any performance metrics calculated using the above backtest methodology would have been an overestimate due to the presence of slippage, transaction cost, and other execution-related inefficiencies. It would thus be necessary to select parameters that would have resulted in the highest sharpes, as combinations of parameters which would lead to seemingly slightly positive sharpe ratios would actually be negative in practice.
-
-### Contact
-I hope you have enjoyed reading the above piece of analysis. I would be happy to receive your thoughts/comments at [kahhong.tai@gmail.com](kahhong.tai@gmail.com).
