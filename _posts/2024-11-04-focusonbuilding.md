@@ -1,6 +1,7 @@
 ---
 title: "Focus on Building"
 date: 2024-11-04
+location: "Singapore, SG"
 permalink: /posts/2024/11/focusonbuilding/
 tags:
 ---
