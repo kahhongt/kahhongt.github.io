@@ -25,7 +25,7 @@ redirect_from:
 ### Professional Experience
 <p align="left"><img src="/images/bh_logo.png" width="360" height="23" /></p>
 
-* **Quantitative Researcher** at **Brevan Howard Asset Management LLP., Geneva, Switzerland** *(August 2023 to Present)*
+* **Quantitative Researcher** at **Brevan Howard Asset Management LLP., Geneva, Switzerland** *(August 2023 to October 2024)*
 * **Data Scientist** at **Meta, London, United Kingdom** *(January 2022 to August 2023)*
 * **Quantitative Researcher** at **Dymon Asia Capital, Singapore** *(April 2021 to December 2021)*
 * **Data Scientist** at **Grab, Singapore** *(January 2019 to April 2021)*
