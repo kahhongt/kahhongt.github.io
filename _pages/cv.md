@@ -31,7 +31,6 @@ redirect_from:
 * **Data Scientist** at **Meta, London, United Kingdom** *(January 2022 to August 2023)*
 * **Quantitative Researcher** at **Dymon Asia Capital, Singapore** *(April 2021 to December 2021)*
 * **Data Scientist** at **Grab, Singapore** *(January 2019 to April 2021)*
-* **Investment Banking Summer Analyst** at **Credit Suisse, Singapore** *(June 2018 to August 2018)*
 * **Real Estate Investments Intern** at **GIC, London, United Kingdom** *(June 2017 to August 2017)*
 * **Operations Intern** at **Entrepreneur First, Singapore** *(June 2016 to September 2016)*
 
