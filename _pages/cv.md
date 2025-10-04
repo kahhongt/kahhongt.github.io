@@ -14,8 +14,16 @@ redirect_from:
 <div style="display: flex; align-items: center; gap: 20px; margin: 20px 0; flex-wrap: wrap;">
   <img src="/images/oxford-logo.png" width="100" height="100" style="border-radius: 12px;" />
   <img src="/images/oxford-man-institute-logo.png" width="100" height="100" style="border-radius: 12px;" />
-  <img src="/images/radcliffe_oxford.jpeg" style="height: 100px; width: auto; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" alt="Radcliffe Observatory, Oxford" />
+  <img src="/images/radcliffe_oxford.jpeg" style="height: 100px; width: auto; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); display: none;" class="oxford-banner" alt="Radcliffe Observatory, Oxford" />
 </div>
+
+<style>
+@media (min-width: 768px) {
+  .oxford-banner {
+    display: inline-block !important;
+  }
+}
+</style>
 
 - **B.A., M.Eng. in Information Engineering, University of Oxford** _(2014 to 2018)_
   - Grade: **First Class Honours, St John's College Casbard Scholarship**
