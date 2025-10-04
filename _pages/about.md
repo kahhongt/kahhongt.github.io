@@ -34,21 +34,20 @@ I was previously a Quantitative Researcher in Geneva, Switzerland and Data Scien
       <p style="margin: 8px 0 0 0; font-size: 14px;">Strolling along the High Line, New York, 2022</p>
     </div>
     <div style="text-align: center;">
-      <img data-src="/images/times_square.jpeg" style="width: 100%; height: auto; border-radius: 8px;" class="lazy-img" alt="Times Square" />
+      <img src="/images/times_square.jpeg" style="width: 100%; height: auto; border-radius: 8px;" loading="lazy" alt="Times Square" />
       <p style="margin: 8px 0 0 0; font-size: 14px;">Times Square, New York, 2022</p>
     </div>
     <div style="text-align: center;">
-      <img data-src="/images/newyork2.jpeg" style="width: 100%; height: auto; border-radius: 8px;" class="lazy-img" alt="Brooklyn Bridge" />
+      <img src="/images/newyork2.jpeg" style="width: 100%; height: auto; border-radius: 8px;" loading="lazy" alt="Brooklyn Bridge" />
       <p style="margin: 8px 0 0 0; font-size: 14px;">Brooklyn Bridge, New York, 2022</p>
     </div>
     <div style="text-align: center;">
-      <img data-src="/images/cefalu2.jpeg" style="width: 100%; height: auto; border-radius: 8px;" class="lazy-img" alt="Cefalù Beach" />
+      <img src="/images/cefalu2.jpeg" style="width: 100%; height: auto; border-radius: 8px;" loading="lazy" alt="Cefalù Beach" />
       <p style="margin: 8px 0 0 0; font-size: 14px;">Spiaggia di Cefalù, Sicily, 2022</p>
     </div>
     <div style="text-align: center;">
-      <img data-src="/images/sicily.jpeg" style="width: 100%; height: auto; border-radius: 8px;" class="lazy-img" alt="Hiking Cefalù" />
-      <p style="margin: 8px 0 0 0  
-: 14px;">Hiking in Cefalù, Italy, 2022</p>
+      <img src="/images/sicily.jpeg" style="width: 100%; height: auto; border-radius: 8px;" loading="lazy" alt="Hiking Cefalù" />
+      <p style="margin: 8px 0 0 0; font-size: 14px;">Hiking in Cefalù, Italy, 2022</p>
     </div>
   </div>
   
@@ -58,72 +57,35 @@ I was previously a Quantitative Researcher in Geneva, Switzerland and Data Scien
       <img src="/images/taipei2.jpeg" style="width: 100%; height: auto; border-radius: 8px;" loading="eager" alt="Taipei Park" />
       <p style="margin: 8px 0 0 0; font-size: 14px;">Zhong Shan Park, Taipei, 2025</p>
     </div>
-     <div style="text-align: center;">
+    <div style="text-align: center;">
       <img src="/images/ig_newyork.jpeg" style="width: 100%; height: auto; border-radius: 8px;" loading="eager" alt="Instagram HQ" />
       <p style="margin: 8px 0 0 0; font-size: 14px;">Instagram New York Headquarters, USA, 2022</p>
     </div>
-    <div style="text-align:中心;">
-      <img data-src="/images/cefalu3.jpeg" style="width: 100%; height: auto; border-radius: 8px;" class="lazy-img" alt="Cefalù Beach 2" />
+    <div style="text-align: center;">
+      <img src="/images/cefalu3.jpeg" style="width: 100%; height: auto; border-radius: 8px;" loading="lazy" alt="Cefalù Beach 2" />
       <p style="margin: 8px 0 0 0; font-size: 14px;">Spiaggia di Cefalù, Sicily, 2022</p>
     </div>
     <div style="text-align: center;">
-      <img data-src="/images/catania2.jpeg" style="width: 100%; height: auto; border-radius: 8px;" class="lazy-img" alt="Catania" />
+      <img src="/images/catania2.jpeg" style="width: 100%; height: auto; border-radius: 8px;" loading="lazy" alt="Catania" />
       <p style="margin: 8px 0 0 0; font-size: 14px;">Via degli Ombrellini in Catania, Sicily, 2022</p>
     </div>
     <div style="text-align: center;">
-      <img data-src="/images/syracuse.jpeg" style="width: 100%; height: auto; border-radius: 8px;" class="lazy-img" alt="Syracuse" />
+      <img src="/images/syracuse.jpeg" style="width: 100%; height: auto; border-radius: 8px;" loading="lazy" alt="Syracuse" />
       <p style="margin: 8px 0 0 0; font-size: 14px;">Island of Ortigia near Syracuse, Sicily, 2022</p>
     </div>
     <div style="text-align: center;">
-      <img data-src="/images/taormina.jpeg" style="width: 100%; height: auto; border-radius: 8px;" class="lazy-img" alt="Taormina" />
-      <p style="margin: 14px;">Isola Bella in Taormina, Sicily, 2022</p>
+      <img src="/images/taormina.jpeg" style="width: 100%; height: auto; border-radius: 8px;" loading="lazy" alt="Taormina" />
+      <p style="margin: 8px 0 0 0; font-size: 14px;">Isola Bella in Taormina, Sicily, 2022</p>
     </div>
     <div style="text-align: center;">
-      <img data-src="/images/kognisee.jpeg" style="width: 100%; height: auto; border-radius: 8px;" class="lazy-img" alt="Königssee Lake" />
+      <img src="/images/kognisee.jpeg" style="width: 100%; height: auto; border-radius: 8px;" loading="lazy" alt="Königssee Lake" />
       <p style="margin: 8px 0 0 0; font-size: 14px;">Lake Königssee, Germany, 2019</p>
     </div>
     <div style="text-align: center;">
-      <img data-src="/images/sanfrancisco.jpeg" style="width: 100%; height: auto; border-radius: 8px;" class="lazy-img" alt="San Francisco" />
+      <img src="/images/sanfrancisco.jpeg" style="width: 100%; height: auto; border-radius: 8px;" loading="lazy" alt="San Francisco" />
       <p style="margin: 8px 0 0 0; font-size: 14px;">Golden Gate Bridge in San Francisco, USA, 2022</p>
     </div>    
   </div>
 </div>
-
-<script>
-// Progressive loading strategy
-if ('IntersectionObserver' in window) {
-  const imageObserver = new IntersectionObserver((entries, observer) => {
-    entries.forEach(entry => {
-      if (entry.isIntersecting) {
-        const img = entry.target;
-        img.src = img.dataset.src;
-        img.classList.remove('lazy-img');
-        imageObserver.unobserve(img);
-      }
-    });
-  }, {
-    // Load images when they're 200px away from viewport
-    rootMargin: '200px 0px',
-    threshold: 0.1
-  });
-
-  // Only observe lazy images (skip eager loading ones)
-  document.querySelectorAll('.lazy-img').forEach(img => {
-    imageObserver.observe(img);
-  });
-}
-</script>
-
-<style>
-.lazy-img {
-opacity: 0;
-transition: opacity 0.3s ease-in-out;
-}
-
-.lazy-img.loaded {
-opacity: 1;
-}
-
-</style>
 
 Hope you have enjoyed my personal feed.
