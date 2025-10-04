@@ -11,7 +11,11 @@ redirect_from:
 
 ### Education
 
-<p align="left"><img src="/images/oxford-logo.png" width="100" height="100" /> <img src="/images/oxford-man-institute-logo.png" width="100" height="100" /></p>
+<div style="display: flex; align-items: center; gap: 20px; margin: 20px 0; flex-wrap: wrap;">
+  <img src="/images/oxford-logo.png" width="100" height="100" style="border-radius: 12px;" />
+  <img src="/images/oxford-man-institute-logo.png" width="100" height="100" style="border-radius: 12px;" />
+  <img src="/images/radcliffe_oxford.jpeg" style="height: 100px; width: auto; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" alt="Radcliffe Observatory, Oxford" />
+</div>
 
 - **B.A., M.Eng. in Information Engineering, University of Oxford** _(2014 to 2018)_
   - Grade: **First Class Honours, St John's College Casbard Scholarship**
@@ -23,9 +27,7 @@ redirect_from:
 
 ### Professional Experience
 
- <!-- <p align="left"><img src="/images/bh_logo.png" width="360" height="23" /></p> -->
-
-- **Senior Quantitative Researcher (Machine Learning)** at **Proprietary HFT Firm, Singapore** _(May 2025 to Present)_
+- **Senior Data Scientist (AI/ML Quantitative Research)** at **Kronos Research, Singapore** _(May 2025 to Present)_
 - **Founder, Applied AI** at **Diametric Labs, Singapore** _(November 2024 to Present)_
 - **Quantitative Researcher** at **Brevan Howard Asset Management LLP., Geneva, Switzerland** _(August 2023 to October 2024)_
 - **Data Scientist** at **Meta, London, United Kingdom** _(January 2022 to August 2023)_
@@ -37,11 +39,13 @@ redirect_from:
 ### Computing and Frameworks
 
 <p align="left">
-  <img src="/images/python_logo.png" width="40" height="40" /> &nbsp; <img src="/images/r_language.png" width="45" height="40" /> &nbsp; <img src="/images/CPP_logo.png" width="40" height="40" /> &nbsp; <img src="/images/matlab_logo.png" width="40" height="40" />
+  <img src="/images/python_logo.png" width="40" height="40" style="border-radius: 8px;" /> &nbsp; 
+  <img src="/images/r_language.png" width="45" height="40" style="border-radius: 8px;" /> &nbsp; 
+  <img src="/images/CPP_logo.png" width="40" height="40" style="border-radius: 8px;" /> &nbsp; 
+  <img src="/images/matlab_logo.png" width="40" height="40" style="border-radius: 8px;" />
 </p>
 
-- Programming Languages: **Python, R, SQL, C++, MATLAB, Excel VBA**
-- Platforms and Tools: Presto, Hive, Google Cloud Platform, Microsoft Azure, Git, Bloomberg
-- Data Visualisation: Tableau, Chartio, Power BI, Matplotlib, ggplot2, seaborn
-- Libraries: scikit-learn, SciPy, Tensorflow, Statsmodels, NumPy, Pandas, Spark
+- Programming Languages: **Python, C++, R, SQL, MATLAB**
+- Platforms and Tools: Presto, Hive, GCP/AWS, Bloomberg BQuant, Tableau
+- ML/DL Toolkit: Scikit-Learn, SciPy, Tensorflow, Jax/Flax, ONNX Runtime, Optax, PyTorch
 - Modelling: Traditional ML, Deep Learning, Time Series Analysis, Bayesian Inference, NLP, Foundation Models
