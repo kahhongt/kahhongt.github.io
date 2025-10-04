@@ -89,7 +89,7 @@ I was previously a Quantitative Researcher in Geneva, Switzerland and Data Scien
     </div>
     <div style="text-align: center;">
       <img src="/images/instagram_office.jpeg" style="width: 100%; height: auto; border-radius: 8px;" loading="lazy" alt="Instagram Office" />
-      <p style="margin: 8px 0 0 0; font-size: 14px;">Unforgetable times at Instagram, New York, 2022</p>
+      <p style="margin: 8px 0 0 0; font-size: 14px;">Unforgettable times at Instagram, New York, 2022</p>
     </div>
     <div style="text-align: center;">
       <img src="/images/public_hotel.jpeg" style="width: 100%; height: auto; border-radius: 8px;" loading="lazy" alt="Public Hotel" />
