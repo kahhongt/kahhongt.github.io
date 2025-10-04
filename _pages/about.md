@@ -18,7 +18,9 @@ redirect_from:
   gtag('config', 'G-0N02QYVJTL');
 </script>
 
-Hi! I am Kah Hong! I am a ML-focused Quantitative Researcher based in Singapore, currently leading a small research team applying deep learning and statistical methods to Cryptocurrency HFT/CTA strategies. I was previously a Macro Quantitative Researcher in Geneva, Switzerland and Data Scientist in London, UK. I am interested in probabilistics modelling, machine learning and analytical solutions to inference problems in consumer technology, social phenomena, and the financial markets. I gravitate towards developing solutions with long-term stability and reliability in mind, and learn by breaking down problems and understanding technical concepts from first principles.
+Hi! I am Kah Hong! I am a Quantitative Researcher/Data Scientist based in Singapore, currently leading a small team applying deep learning and statistical methods to Cryptocurrency HFT/CTA strategies.
+
+I was previously a Quantitative Researcher in Geneva, Switzerland and Data Scientist in London, UK. I am interested in probabilistics modelling, machine learning and analytical solutions to inference problems in consumer technology, social phenomena, and the financial markets. I gravitate towards developing solutions with long-term stability and reliability in mind, and learn by breaking down problems and understanding technical concepts from first principles.
 
 <div style="display: flex; gap: 20px; max-width: 1200px; margin: 20px auto;">
   <!-- Left Column -->
