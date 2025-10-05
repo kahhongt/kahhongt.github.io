@@ -64,12 +64,16 @@ I was previously a Quantitative Researcher in Geneva, Switzerland and Data Scien
       <p style="margin: 8px 0 0 0; font-size: 14px;">Via degli Ombrellini in Catania, Sicily, 2022</p>
     </div>
     <div style="text-align: center;">
-      <img src="/images/taormina.jpeg" style="width: 100%; height: auto; border-radius: 8px;" loading="lazy" alt="Taormina" />
-      <p style="margin: 8px 0 0 0; font-size: 14px;">Isola Bella in Taormina, Sicily, 2022</p>
+      <img src="/images/sicily.jpeg" style="width: 100%; height: auto; border-radius: 8px;" loading="lazy" alt="Hiking Cefalù" />
+      <p style="margin: 8px 0 0 0; font-size: 14px;">Hiking in Cefalù, Italy, 2022</p>
     </div>    
     <div style="text-align: center;">
       <img src="/images/kognisee.jpeg" style="width: 100%; height: auto; border-radius: 8px;" loading="lazy" alt="Königssee Lake" />
       <p style="margin: 8px 0 0 0; font-size: 14px;">Lake Königssee, Germany, 2019</p>
+    </div>
+    <div style="text-align: center;">
+      <img src="/images/interlaken.jpeg" style="width: 100%; height: auto; border-radius: 8px;" loading="lazy" alt="Interlaken" />
+      <p style="margin: 8px 0 0 0; font-size: 14px;">Interlaken, Switzerland, 2017</p>
     </div>
   </div>
 
@@ -112,16 +116,12 @@ I was previously a Quantitative Researcher in Geneva, Switzerland and Data Scien
       <p style="margin: 8px 0 0 0; font-size: 14px;">Island of Ortigia near Syracuse, Sicily, 2022</p>
     </div>
     <div style="text-align: center;">
-      <img src="/images/sicily.jpeg" style="width: 100%; height: auto; border-radius: 8px;" loading="lazy" alt="Hiking Cefalù" />
-      <p style="margin: 8px 0 0 0; font-size: 14px;">Hiking in Cefalù, Italy, 2022</p>
-    </div>
+      <img src="/images/taormina.jpeg" style="width: 100%; height: auto; border-radius: 8px;" loading="lazy" alt="Taormina" />
+      <p style="margin: 8px 0 0 0; font-size: 14px;">Isola Bella in Taormina, Sicily, 2022</p>
+    </div>        
     <div style="text-align: center;">
       <img src="/images/cefalu2.jpeg" style="width: 100%; height: auto; border-radius: 8px;" loading="lazy" alt="Cefalù Beach" />
       <p style="margin: 8px 0 0 0; font-size: 14px;">Spiaggia di Cefalù, Sicily, 2022</p>
     </div>
-    <div style="text-align: center;">
-      <img src="/images/interlaken.jpeg" style="width: 100%; height: auto; border-radius: 8px;" loading="lazy" alt="Interlaken" />
-      <p style="margin: 8px 0 0 0; font-size: 14px;">Interlaken, Switzerland, 2017</p>
-    </div>    
   </div>
 </div>
