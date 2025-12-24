@@ -32,12 +32,12 @@ I was previously a Quantitative Researcher in Geneva, Switzerland and Data Scien
       <p style="margin: 8px 0 0 0; font-size: 14px;">88th Floor of Taipei 101, Taiwan, 2025</p>
     </div>
     <div style="text-align: center;">
-      <img src="/images/annecy_lake.jpeg" style="width: 100%; height: auto; border-radius: 8px;" loading="eager" alt="Lake Annecy" />
-      <p style="margin: 8px 0 0 0; font-size: 14px;">Lake Annecy in France, 2024</p>
+      <img src="/images/nice_france.jpeg" style="width: 100%; height: auto; border-radius: 8px;" loading="eager" alt="Nice" />
+      <p style="margin: 8px 0 0 0; font-size: 14px;">Atop a viewpoint in Nice, France, 2024</p>
     </div>
     <div style="text-align: center;">
-      <img src="/images/annecy_river.jpeg" style="width: 100%; height: auto; border-radius: 8px;" loading="eager" alt="Annecy River" />
-      <p style="margin: 8px 0 0 0; font-size: 14px;">Strolling along a river in Annecy, 2024</p>
+      <img src="/images/annecy_lake.jpeg" style="width: 100%; height: auto; border-radius: 8px;" loading="eager" alt="Lake Annecy" />
+      <p style="margin: 8px 0 0 0; font-size: 14px;">Lake Annecy in France, 2024</p>
     </div>
     <div style="text-align: center;">
       <img src="/images/annecy_river_2.jpeg" style="width: 100%; height: auto; border-radius: 8px;" loading="eager" alt="Annecy" />
@@ -48,13 +48,21 @@ I was previously a Quantitative Researcher in Geneva, Switzerland and Data Scien
       <p style="margin: 8px 0 0 0; font-size: 14px;">The walk to the office in Winter, Geneva, 2024</p>
     </div>
     <div style="text-align: center;">
-      <img src="/images/durdle_door.jpeg" style="width: 100%; height: auto; border-radius: 8px;" loading="eager" alt="Durdle Door" />
-      <p style="margin: 8px 0 0 0; font-size: 14px;">Durdle Door, Dorset, UK, 2023</p>
+      <img src="/images/lyon_river.jpeg" style="width: 100%; height: auto; border-radius: 8px;" loading="eager" alt="Lyon River" />
+      <p style="margin: 8px 0 0 0; font-size: 14px;">Lyon, the Food Capital of France, 2024</p>
+    </div>
+    <div style="text-align: center;">
+      <img src="/images/beijing_great_wall.jpeg" style="width: 100%; height: auto; border-radius: 8px;" loading="lazy" alt="Beijing Great Wall" />
+      <p style="margin: 8px 0 0 0; font-size: 14px;">Great Wall of China in Beijing, China, 2023</p>
     </div>
     <div style="text-align: center;">
       <img src="/images/highline_newyork.jpeg" style="width: 100%; height: auto; border-radius: 8px;" loading="lazy" alt="High Line NYC" />
       <p style="margin: 8px 0 0 0; font-size: 14px;">Strolling along the High Line, New York, 2022</p>
-    </div>
+    </div>    
+    <div style="text-align: center;">
+      <img src="/images/durdle_door.jpeg" style="width: 100%; height: auto; border-radius: 8px;" loading="eager" alt="Durdle Door" />
+      <p style="margin: 8px 0 0 0; font-size: 14px;">Durdle Door, Dorset, UK, 2023</p>
+    </div>    
     <div style="text-align: center;">
       <img src="/images/nftnyc.jpeg" style="width: 100%; height: auto; border-radius: 8px;" loading="lazy" alt="NFT NYC" />
       <p style="margin: 8px 0 0 0; font-size: 14px;">NFT NYC Conference, New York, 2022</p>
@@ -100,6 +108,10 @@ I was previously a Quantitative Researcher in Geneva, Switzerland and Data Scien
       <p style="margin: 8px 0 0 0; font-size: 14px;">Zhong Shan Park, Taipei, 2025</p>
     </div>
     <div style="text-align: center;">
+      <img src="/images/annecy_river.jpeg" style="width: 100%; height: auto; border-radius: 8px;" loading="eager" alt="Annecy River" />
+      <p style="margin: 8px 0 0 0; font-size: 14px;">Strolling along a river in Annecy, 2024</p>
+    </div>    
+    <div style="text-align: center;">
       <img src="/images/chamonix_aiguille.jpeg" style="width: 100%; height: auto; border-radius: 8px;" loading="eager" alt="Taipei Park" />
       <p style="margin: 8px 0 0 0; font-size: 14px;">Chamonix L'Aiguille du Midi, 2024</p>
     </div>
@@ -108,16 +120,16 @@ I was previously a Quantitative Researcher in Geneva, Switzerland and Data Scien
       <p style="margin: 8px 0 0 0; font-size: 14px;">Chamonix City Centre in the French Alps, 2024</p>
     </div>
     <div style="text-align: center;">
+      <img src="/images/lyon_hilltop.jpeg" style="width: 100%; height: auto; border-radius: 8px;" loading="eager" alt="Top of Lyon" />
+      <p style="margin: 8px 0 0 0; font-size: 14px;">Lyon Skyline, France, 2024</p>
+    </div>    
+    <div style="text-align: center;">
       <img src="/images/geneva_river_split.jpeg" style="width: 100%; height: auto; border-radius: 8px;" loading="eager" alt="Geneva River Confluence" />
       <p style="margin: 8px 0 0 0; font-size: 14px;">Breathtaking river confluence at Viaduc de la Jonction, Geneva, 2024</p>
     </div>
     <div style="text-align: center;">
-      <img src="/images/lyon_hilltop.jpeg" style="width: 100%; height: auto; border-radius: 8px;" loading="eager" alt="Top of Lyon" />
-      <p style="margin: 8px 0 0 0; font-size: 14px;">Lyon Skyline, 2024</p>
-    </div>
-    <div style="text-align: center;">
-      <img src="/images/lyon_river.jpeg" style="width: 100%; height: auto; border-radius: 8px;" loading="eager" alt="Lyon River" />
-      <p style="margin: 8px 0 0 0; font-size: 14px;">Lyon, the Food Capital of France, 2024</p>
+      <img src="/images/beijing_forbidden_city.jpeg" style="width: 100%; height: auto; border-radius: 8px;" loading="eager" alt="Beijing Forbidden City" />
+      <p style="margin: 8px 0 0 0; font-size: 14px;">Forbidden City in Beijing, China, 2023</p>
     </div>
     <div style="text-align: center;">
       <img src="/images/london.jpeg" style="width: 100%; height: auto; border-radius: 8px;" loading="eager" alt="London" />
