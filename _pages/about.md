@@ -32,6 +32,22 @@ I was previously a Quantitative Researcher in Geneva, Switzerland and Data Scien
       <p style="margin: 8px 0 0 0; font-size: 14px;">88th Floor of Taipei 101, Taiwan, 2025</p>
     </div>
     <div style="text-align: center;">
+      <img src="/images/annecy_lake.jpeg" style="width: 100%; height: auto; border-radius: 8px;" loading="eager" alt="Lake Annecy" />
+      <p style="margin: 8px 0 0 0; font-size: 14px;">Lake Annecy in France, 2024</p>
+    </div>
+    <div style="text-align: center;">
+      <img src="/images/annecy_river.jpeg" style="width: 100%; height: auto; border-radius: 8px;" loading="eager" alt="Annecy River" />
+      <p style="margin: 8px 0 0 0; font-size: 14px;">Strolling along a river in Annecy, 2024</p>
+    </div>
+    <div style="text-align: center;">
+      <img src="/images/annecy_river_2.jpeg" style="width: 100%; height: auto; border-radius: 8px;" loading="eager" alt="Annecy" />
+      <p style="margin: 8px 0 0 0; font-size: 14px;">Beautiful Town of Annecy in France, just a short ride away from Geneva, 2024</p>
+    </div>
+    <div style="text-align: center;">
+      <img src="/images/geneva_commute.jpeg" style="width: 100%; height: auto; border-radius: 8px;" loading="eager" alt="Annecy" />
+      <p style="margin: 8px 0 0 0; font-size: 14px;">The walk to the office in Winter, Geneva, 2024</p>
+    </div>
+    <div style="text-align: center;">
       <img src="/images/durdle_door.jpeg" style="width: 100%; height: auto; border-radius: 8px;" loading="eager" alt="Durdle Door" />
       <p style="margin: 8px 0 0 0; font-size: 14px;">Durdle Door, Dorset, UK, 2023</p>
     </div>
@@ -82,6 +98,26 @@ I was previously a Quantitative Researcher in Geneva, Switzerland and Data Scien
     <div style="text-align: center;">
       <img src="/images/taipei2.jpeg" style="width: 100%; height: auto; border-radius: 8px;" loading="eager" alt="Taipei Park" />
       <p style="margin: 8px 0 0 0; font-size: 14px;">Zhong Shan Park, Taipei, 2025</p>
+    </div>
+    <div style="text-align: center;">
+      <img src="/images/charmonix_aiguille.jpeg" style="width: 100%; height: auto; border-radius: 8px;" loading="eager" alt="Taipei Park" />
+      <p style="margin: 8px 0 0 0; font-size: 14px;">Charmonix L'Aiguille du Midi, 2024</p>
+    </div>
+    <div style="text-align: center;">
+      <img src="/images/charmonix_view_1.jpeg" style="width: 100%; height: auto; border-radius: 8px;" loading="eager" alt="Charmonix View" />
+      <p style="margin: 8px 0 0 0; font-size: 14px;">Charmonix City Centre in the French Alps, 2024</p>
+    </div>
+    <div style="text-align: center;">
+      <img src="/images/geneva_river_split.jpeg" style="width: 100%; height: auto; border-radius: 8px;" loading="eager" alt="Geneva River Confluence" />
+      <p style="margin: 8px 0 0 0; font-size: 14px;">Breathtaking Rhone Confluence at Viaduc de la Jonction, 2024</p>
+    </div>
+    <div style="text-align: center;">
+      <img src="/images/lyon_hilltop.jpeg" style="width: 100%; height: auto; border-radius: 8px;" loading="eager" alt="Top of Lyon" />
+      <p style="margin: 8px 0 0 0; font-size: 14px;">Lyon Skyline, 2024</p>
+    </div>
+    <div style="text-align: center;">
+      <img src="/images/lyon_river.jpeg" style="width: 100%; height: auto; border-radius: 8px;" loading="eager" alt="Lyon River" />
+      <p style="margin: 8px 0 0 0; font-size: 14px;">Lyon, the Food Capital of France, 2024</p>
     </div>
     <div style="text-align: center;">
       <img src="/images/london.jpeg" style="width: 100%; height: auto; border-radius: 8px;" loading="eager" alt="London" />
