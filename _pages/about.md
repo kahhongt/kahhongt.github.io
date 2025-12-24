@@ -41,7 +41,7 @@ I was previously a Quantitative Researcher in Geneva, Switzerland and Data Scien
     </div>
     <div style="text-align: center;">
       <img src="/images/annecy_river_2.jpeg" style="width: 100%; height: auto; border-radius: 8px;" loading="eager" alt="Annecy" />
-      <p style="margin: 8px 0 0 0; font-size: 14px;">Beautiful Town of Annecy in France, just a short ride away from Geneva, 2024</p>
+      <p style="margin: 8px 0 0 0; font-size: 14px;">Beautiful town of Annecy in France, just a short ride away from Geneva, 2024</p>
     </div>
     <div style="text-align: center;">
       <img src="/images/geneva_commute.jpeg" style="width: 100%; height: auto; border-radius: 8px;" loading="eager" alt="Annecy" />
@@ -100,16 +100,16 @@ I was previously a Quantitative Researcher in Geneva, Switzerland and Data Scien
       <p style="margin: 8px 0 0 0; font-size: 14px;">Zhong Shan Park, Taipei, 2025</p>
     </div>
     <div style="text-align: center;">
-      <img src="/images/charmonix_aiguille.jpeg" style="width: 100%; height: auto; border-radius: 8px;" loading="eager" alt="Taipei Park" />
-      <p style="margin: 8px 0 0 0; font-size: 14px;">Charmonix L'Aiguille du Midi, 2024</p>
+      <img src="/images/chamonix_aiguille.jpeg" style="width: 100%; height: auto; border-radius: 8px;" loading="eager" alt="Taipei Park" />
+      <p style="margin: 8px 0 0 0; font-size: 14px;">Chamonix L'Aiguille du Midi, 2024</p>
     </div>
     <div style="text-align: center;">
-      <img src="/images/charmonix_view_1.jpeg" style="width: 100%; height: auto; border-radius: 8px;" loading="eager" alt="Charmonix View" />
-      <p style="margin: 8px 0 0 0; font-size: 14px;">Charmonix City Centre in the French Alps, 2024</p>
+      <img src="/images/chamonix_view_1.jpeg" style="width: 100%; height: auto; border-radius: 8px;" loading="eager" alt="Charmonix View" />
+      <p style="margin: 8px 0 0 0; font-size: 14px;">Chamonix City Centre in the French Alps, 2024</p>
     </div>
     <div style="text-align: center;">
       <img src="/images/geneva_river_split.jpeg" style="width: 100%; height: auto; border-radius: 8px;" loading="eager" alt="Geneva River Confluence" />
-      <p style="margin: 8px 0 0 0; font-size: 14px;">Breathtaking Rhone Confluence at Viaduc de la Jonction, 2024</p>
+      <p style="margin: 8px 0 0 0; font-size: 14px;">Breathtaking river confluence at Viaduc de la Jonction, Geneva, 2024</p>
     </div>
     <div style="text-align: center;">
       <img src="/images/lyon_hilltop.jpeg" style="width: 100%; height: auto; border-radius: 8px;" loading="eager" alt="Top of Lyon" />
