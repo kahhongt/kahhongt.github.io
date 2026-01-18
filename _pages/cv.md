@@ -35,7 +35,7 @@ redirect_from:
 
 ### Professional Experience
 
-- **Senior Data Scientist (AI/ML Quantitative Research)** at **Kronos Research, Singapore** _(May 2025 to Present)_
+- **Senior Machine Learning Researcher (AI/ML Quantitative Research)** at **Kronos Research, Singapore** _(May 2025 to Present)_
 - **Founder, Applied AI** at **Diametric Labs, Singapore** _(November 2024 to Present)_
 - **Quantitative Researcher** at **Brevan Howard Asset Management LLP., Geneva, Switzerland** _(August 2023 to October 2024)_
 - **Data Scientist** at **Meta, London, United Kingdom** _(January 2022 to August 2023)_
