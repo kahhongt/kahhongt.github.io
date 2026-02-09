@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Kah Hong! I am a Quantitative Researcher/Data Scientist based in Singapore, currently leading a small team applying deep learning and statistical methods to Cryptocurrency HFT/CTA strategies.
+Hi! I am Kah Hong! I am a Machine Learning Quantitative Researcher based in Singapore, currently leading a small team applying deep learning and statistical methods to Cryptocurrency MFT/HFT strategies.
 
 I was previously a Quantitative Researcher in Geneva, Switzerland and Data Scientist in London, UK. I am interested in probabilistics modelling, machine learning and analytical solutions to inference problems in consumer technology, social phenomena, and the financial markets. I gravitate towards developing solutions with long-term stability and reliability in mind, and learn by breaking down problems and understanding technical concepts from first principles.
 
