@@ -28,7 +28,16 @@
   }
 }
 
+.posts-archive .archive__item-overlay {
+  position: absolute;
+  inset: 0;
+  z-index: 2;
+  border-radius: 14px;
+}
+
 .posts-archive .archive__item-title {
+  position: relative;
+  z-index: 3;
   margin: 0 0 0.22rem;
   font-size: 1rem;
   line-height: 1.4;
@@ -36,6 +45,8 @@
 
 .posts-archive .page__meta,
 .posts-archive .page__date {
+  position: relative;
+  z-index: 3;
   margin: 0.14rem 0 0;
   color: mix(#000, $gray, 20%);
   font-size: 0.8rem;
@@ -48,6 +59,8 @@
 }
 
 .posts-archive .archive__item-excerpt {
+  position: relative;
+  z-index: 3;
   margin-top: 0.5rem;
   color: $fiord;
   font-size: 0.9rem;
