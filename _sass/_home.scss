@@ -1,0 +1,157 @@
+/* ==========================================================================
+   HOME PAGE
+   ========================================================================== */
+
+.about-intro {
+  max-width: 46rem;
+  margin-bottom: 1.75rem;
+
+  p {
+    font-size: 1.05rem;
+    line-height: 1.62;
+  }
+}
+
+.about-intro__lead {
+  margin-bottom: 1rem;
+  color: $darker-gray;
+  font-size: $type-size-4;
+  line-height: 1.45;
+}
+
+.memory-wall-section {
+  position: relative;
+  margin-top: 1.5rem;
+  padding: 0.65rem;
+  border: 1px solid rgba($primary-color, 0.12);
+  border-radius: 20px;
+  background:
+    radial-gradient(circle at top left, rgba($link-water, 0.95), transparent 34rem),
+    linear-gradient(180deg, rgba(#fff, 0.98), rgba(#fff, 0.93));
+  box-shadow: 0 18px 42px rgba($timber, 0.07);
+
+  @include breakpoint($medium) {
+    padding: 0.9rem;
+  }
+
+  @include breakpoint($large) {
+    padding: 1rem;
+  }
+}
+
+.memory-wall {
+  display: grid;
+  gap: 0.7rem;
+  align-items: start;
+
+  @include breakpoint($medium) {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 0.95rem;
+  }
+}
+
+.memory-wall__column {
+  display: grid;
+  gap: 0.7rem;
+  align-content: start;
+
+  @include breakpoint($medium) {
+    gap: 0.95rem;
+  }
+
+  &--offset {
+    @include breakpoint($medium) {
+      padding-top: 1.5rem;
+    }
+  }
+}
+
+.memory-card {
+  margin: 0;
+  position: relative;
+  overflow: hidden;
+  isolation: isolate;
+  border: 1px solid rgba($primary-color, 0.1);
+  border-radius: 16px;
+  background: rgba(#fff, 0.94);
+  box-shadow: 0 10px 24px rgba($timber, 0.07);
+  cursor: zoom-in;
+  transition: transform 0.25s ease, box-shadow 0.25s ease, border-color 0.25s ease;
+
+  &::before {
+    position: absolute;
+    inset: 0;
+    z-index: 2;
+    background: radial-gradient(circle at 18% 18%, rgba(#fff, 0.26), transparent 34%);
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity 0.25s ease;
+    content: "";
+  }
+
+  &::after {
+    position: absolute;
+    top: 0;
+    left: -24%;
+    z-index: 2;
+    width: 40%;
+    height: 100%;
+    background: linear-gradient(90deg, rgba(#fff, 0), rgba(#fff, 0.18), rgba(#fff, 0));
+    opacity: 0;
+    transform: skewX(-18deg);
+    pointer-events: none;
+    transition: left 0.45s ease, opacity 0.25s ease;
+    content: "";
+  }
+
+  &:hover {
+    transform: translateY(-2px);
+    border-color: rgba($primary-color, 0.24);
+    box-shadow: 0 16px 30px rgba($timber, 0.11);
+
+    &::before {
+      opacity: 1;
+    }
+
+    &::after {
+      left: 108%;
+      opacity: 1;
+    }
+  }
+
+  &:nth-child(4n + 2) {
+    border-radius: 20px 14px 18px 14px;
+  }
+
+  &:nth-child(4n + 3) {
+    border-radius: 14px 18px 14px 20px;
+  }
+
+  img {
+    display: block;
+    width: 100%;
+    height: auto;
+    transition: transform 0.45s ease, filter 0.45s ease;
+  }
+
+  &:hover img {
+    transform: scale(1.035);
+    filter: saturate(1.06) contrast(1.03);
+  }
+}
+
+.memory-card__caption {
+  margin: 0;
+  padding: 0.5rem 0.7rem 0.58rem;
+  font-family: $global-font-family;
+  color: mix(#000, $fiord, 10%);
+  font-size: 0.82rem;
+  line-height: 1.32;
+  background: linear-gradient(180deg, rgba($link-water, 0.18), rgba(#fff, 0.98));
+  transition: background 0.25s ease, color 0.25s ease;
+}
+
+.memory-card:hover .memory-card__caption {
+  color: $timber;
+  background: linear-gradient(180deg, rgba($link-water, 0.34), rgba(#fff, 0.98));
+}
