@@ -1,0 +1,55 @@
+/* ==========================================================================
+   POSTS ARCHIVE PAGE
+   ========================================================================== */
+
+.posts-archive {
+  display: grid;
+  gap: 0.85rem;
+  margin-top: 1rem;
+}
+
+.posts-archive .list__item {
+  position: relative;
+  padding-right: 0;
+}
+
+.posts-archive .archive__item {
+  position: relative;
+  padding: 0.85rem 0.9rem 0.9rem 1rem;
+  border: 1px solid rgba($primary-color, 0.1);
+  border-radius: 14px;
+  background: rgba(#fff, 0.9);
+  transition: transform 0.2s ease, border-color 0.2s ease, box-shadow 0.2s ease;
+
+  &:hover {
+    transform: translateX(3px);
+    border-color: rgba($primary-color, 0.2);
+    box-shadow: 0 12px 24px rgba($timber, 0.08);
+  }
+}
+
+.posts-archive .archive__item-title {
+  margin: 0 0 0.22rem;
+  font-size: 1rem;
+  line-height: 1.4;
+}
+
+.posts-archive .page__meta,
+.posts-archive .page__date {
+  margin: 0.14rem 0 0;
+  color: mix(#000, $gray, 20%);
+  font-size: 0.8rem;
+  line-height: 1.45;
+}
+
+.posts-archive .page__date strong {
+  color: mix(#000, $gray, 14%);
+  font-weight: 600;
+}
+
+.posts-archive .archive__item-excerpt {
+  margin-top: 0.5rem;
+  color: $fiord;
+  font-size: 0.9rem;
+  line-height: 1.55;
+}
