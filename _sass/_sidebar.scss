@@ -70,38 +70,75 @@
    ========================================================================== */
 
 .author__avatar {
-  display: table-cell;
-  vertical-align: top;
-  width: 36px;
+  display: block;
+  position: relative;
+  flex: 0 0 auto;
+  width: 112px;
   // set width only, for non-square avatars
   // height: 36px;
 
   @include breakpoint($large) {
-    display: block;
-    width: auto;
-    height: auto;
+    width: 168px;
+    margin: 0 auto;
+  }
+
+  &::before {
+    position: absolute;
+    inset: -10px;
+    z-index: 0;
+    border-radius: 50%;
+    background:
+      radial-gradient(circle at 30% 30%, rgba(#fff, 0.95), rgba($link-water, 0.82) 38%, rgba($ship-cove, 0.34) 62%, transparent 76%);
+    filter: blur(1px);
+    content: "";
   }
 
   img {
-    max-width: 200px;
+    position: relative;
+    z-index: 1;
+    width: 100%;
+    max-width: none;
     border-radius: 50%;
+    border: 4px solid rgba(#fff, 0.94);
+    box-shadow: 0 22px 48px rgba($timber, 0.2);
+    transition: transform 0.22s ease, box-shadow 0.22s ease;
 
     @include breakpoint($large) {
-      padding: 5px;
-      border: 1px solid $border-color;
+      border-width: 5px;
     }
   }
 }
 
-.author__content {
-  display: table-cell;
-  vertical-align: top;
-  padding-left: 15px;
-  padding-right: 25px;
-  line-height: 1;
+.author__card {
+  position: relative;
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  width: 100%;
+  padding: 0.35rem 0 0.2rem;
+
+  &:hover {
+    .author__avatar img {
+      transform: scale(1.02);
+      box-shadow: 0 26px 54px rgba($timber, 0.24);
+    }
+  }
 
   @include breakpoint($large) {
     display: block;
+    padding: 0;
+    text-align: center;
+  }
+}
+
+.author__content {
+  display: block;
+  min-width: 0;
+  padding-left: 0;
+  padding-right: 0;
+  line-height: 1.1;
+
+  @include breakpoint($large) {
     width: 100%;
     padding-left: 0;
     padding-right: 0;
@@ -109,24 +146,53 @@
 }
 
 .author__name {
-  margin: 0;
+  margin: 0.75rem 0 0.35rem;
+  text-align: center;
 
   @include breakpoint($large) {
-    margin-top: 10px;
-    margin-bottom: 10px;
+    margin-top: 1.8rem;
+    margin-bottom: 0.35rem;
   }
 }
 .sidebar .author__name {
   font-family: $sans-serif;
-  font-size: $type-size-5;
+  font-size: 1.28rem;
 }
 
 .author__bio {
   margin: 0;
+  color: mix(#000, $gray, 18%);
+  font-size: 0.92rem;
+  line-height: 1.55;
 
   @include breakpoint($large) {
-    margin-top: 10px;
-    margin-bottom: 20px;
+    margin-top: 0;
+    margin-bottom: 0.55rem;
+  }
+}
+
+.author__meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem 0.7rem;
+  margin-top: 0.55rem;
+
+  @include breakpoint($large) {
+    justify-content: center;
+  }
+}
+
+.author__meta-item {
+  display: inline-flex;
+  align-items: center;
+  color: mix(#000, $gray, 14%);
+  font-size: 0.72rem;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+  line-height: 1.2;
+
+  i {
+    color: $primary-color;
   }
 }
 
@@ -138,6 +204,7 @@
   z-index: 10;
   position: relative;
   cursor: pointer;
+  padding-left: 0;
 
   li:last-child {
     a {
@@ -147,6 +214,8 @@
 
   @include breakpoint($large) {
     display: block;
+    padding-left: 0;
+    margin-top: 0.95rem;
   }
 
   button {
@@ -180,6 +249,7 @@
     border: 0;
     background: transparent;
     box-shadow: none;
+    text-align: center;
   }
 
   &:before {
@@ -218,6 +288,11 @@
 
   li {
     white-space: nowrap;
+
+    @include breakpoint($large) {
+      display: inline-block;
+      margin: 0 0.35rem 0.35rem;
+    }
   }
 
   a {
