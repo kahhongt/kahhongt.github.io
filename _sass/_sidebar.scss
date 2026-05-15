@@ -113,7 +113,7 @@
   position: relative;
   display: flex;
   align-items: center;
-  gap: 1rem;
+  gap: 1.2rem;
   width: 100%;
   padding: 0.35rem 0 0.2rem;
 
@@ -146,11 +146,11 @@
 }
 
 .author__name {
-  margin: 0.75rem 0 0.35rem;
+  margin: 1rem 0 0.35rem;
   text-align: center;
 
   @include breakpoint($large) {
-    margin-top: 1.8rem;
+    margin-top: 2.2rem;
     margin-bottom: 0.35rem;
   }
 }
@@ -198,13 +198,15 @@
 
 .author__urls-wrapper {
   position: relative;
-  display: table-cell;
-  vertical-align: middle;
+  display: block;
+  width: 100%;
+  margin-top: 0.45rem;
+  vertical-align: initial;
   font-family: $sans-serif;
   z-index: 10;
-  position: relative;
-  cursor: pointer;
+  cursor: default;
   padding-left: 0;
+  text-align: center;
 
   li:last-child {
     a {
@@ -212,101 +214,73 @@
     }
   }
 
-  @include breakpoint($large) {
-    display: block;
-    padding-left: 0;
-    margin-top: 0.95rem;
-  }
-
   button {
-    margin-bottom: 0;
-
-    @include breakpoint($large) {
-      display: none;
-    }
+    display: none !important;
   }
 }
 
 .author__urls {
-  display: none;
-  position: absolute;
-  right: 0;
-  margin-top: 15px;
-  padding: 10px;
+  display: flex;
+  position: relative;
+  right: auto;
+  left: auto;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.42rem;
+  margin: 0;
+  padding: 0;
   list-style-type: none;
-  border: 1px solid $border-color;
-  border-radius: $border-radius;
-  background: #fff;
-  z-index: -1;
-  box-shadow: 0 0 10px rgba(#000, 0.25);
+  border: 0;
+  border-radius: 0;
+  background: transparent;
+  z-index: 0;
+  box-shadow: none;
   cursor: default;
 
-  @include breakpoint($large) {
-    display: block;
-    position: relative;
-    margin: 0;
-    padding: 0;
-    border: 0;
-    background: transparent;
-    box-shadow: none;
-    text-align: center;
-  }
-
   &:before {
-    display: block;
-    content: "";
-    position: absolute;
-    top: -11px;
-    left: calc(50% - 10px);
-    width: 0;
-    border-style: solid;
-    border-width: 0 10px 10px;
-    border-color: $border-color transparent;
-    z-index: 0;
-
-    @include breakpoint($large) {
-      display: none;
-    }
+    display: none;
   }
 
   &:after {
-    display: block;
-    content: "";
-    position: absolute;
-    top: -10px;
-    left: calc(50% - 10px);
-    width: 0;
-    border-style: solid;
-    border-width: 0 10px 10px;
-    border-color: #fff transparent;
-    z-index: 1;
-
-    @include breakpoint($large) {
-      display: none;
-    }
+    display: none;
   }
 
   li {
-    white-space: nowrap;
-
-    @include breakpoint($large) {
-      display: inline-block;
-      margin: 0 0.35rem 0.35rem;
-    }
+    display: block;
+    margin: 0;
+    white-space: normal;
   }
 
   a {
-    display: block;
-    margin-bottom: 5px;
-    padding-right: 5px;
-    padding-top: 2px;
-    padding-bottom: 2px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 2rem;
+    height: 2rem;
+    margin-bottom: 0;
+    padding: 0;
+    border: 1px solid rgba($primary-color, 0.12);
+    border-radius: 999px;
+    background: rgba(#fff, 0.86);
     color: inherit;
-    font-size: $type-size-5;
+    font-size: 0;
+    line-height: 1;
     text-decoration: none;
+    transition: transform 0.18s ease, border-color 0.18s ease, box-shadow 0.18s ease, color 0.18s ease;
+
+    i {
+      margin: 0;
+      color: $primary-color;
+      font-size: 0.98rem;
+      line-height: 1;
+    }
 
     &:hover {
-      text-decoration: underline;
+      transform: translateY(-1px);
+      border-color: rgba($primary-color, 0.24);
+      box-shadow: 0 10px 18px rgba($timber, 0.08);
+      text-decoration: none;
     }
   }
 }
