@@ -1,0 +1,72 @@
+/* ==========================================================================
+   PORTFOLIO ARCHIVE PAGE
+   ========================================================================== */
+
+.portfolio-archive {
+  display: grid;
+  gap: 0.95rem;
+  margin-top: 1rem;
+}
+
+.portfolio-archive .list__item {
+  position: relative;
+  padding-right: 0;
+}
+
+.portfolio-archive .archive__item {
+  position: relative;
+  padding: 0.95rem 1rem 1rem 1.05rem;
+  border: 1px solid rgba($primary-color, 0.1);
+  border-radius: 16px;
+  background:
+    radial-gradient(circle at top left, rgba($link-water, 0.5), transparent 18rem),
+    rgba(#fff, 0.92);
+  box-shadow: 0 12px 28px rgba($timber, 0.06);
+  transition: transform 0.2s ease, border-color 0.2s ease, box-shadow 0.2s ease;
+
+  &:hover {
+    transform: translateX(3px);
+    border-color: rgba($primary-color, 0.22);
+    box-shadow: 0 16px 30px rgba($timber, 0.1);
+  }
+}
+
+.portfolio-archive .archive__item-overlay {
+  position: absolute;
+  inset: 0;
+  z-index: 2;
+  border-radius: 16px;
+}
+
+.portfolio-archive .archive__item-title,
+.portfolio-archive .page__date,
+.portfolio-archive .archive__item-excerpt {
+  position: relative;
+  z-index: 3;
+}
+
+.portfolio-archive .archive__item-title {
+  margin: 0 0 0.28rem;
+  color: $darker-gray;
+  font-size: 1.02rem;
+  line-height: 1.38;
+}
+
+.portfolio-archive .page__date {
+  margin: 0.16rem 0 0;
+  color: mix(#000, $gray, 20%);
+  font-size: 0.8rem;
+  line-height: 1.45;
+}
+
+.portfolio-archive .page__date strong {
+  color: mix(#000, $gray, 14%);
+  font-weight: 600;
+}
+
+.portfolio-archive .archive__item-excerpt {
+  margin-top: 0.55rem;
+  color: $fiord;
+  font-size: 0.92rem;
+  line-height: 1.58;
+}
