@@ -3,3 +3,4 @@ _site/
 # ignoring sample portfolio posts
 /_portfolio/portfolio-1.md
 portfolio-2.html
+.agents/

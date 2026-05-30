@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <div class="about-intro">
-  <p class="about-intro__lead">Hi! I am Kah Hong! I am a Machine Learning Quantitative Researcher based in Singapore, currently leading a small team applying deep learning and statistical methods to Cryptocurrency MFT/HFT strategies.</p>
+  <p class="about-intro__lead">Hi! I am Kah Hong! I am currently leading the AI/Machine Learning team at Kronos Research, focusing on applying deep learning and statistical methods to Mid/High-Frequency strategies in cryptocurrency markets</p>
 
   <p>I was previously a Quantitative Researcher in Geneva, Switzerland and Data Scientist in London, UK. I am interested in probabilistics modelling, machine learning and analytical solutions to inference problems in consumer technology, social phenomena, and the financial markets. I gravitate towards developing solutions with long-term stability and reliability in mind, and learn by breaking down problems and understanding technical concepts from first principles.</p>
 </div>
@@ -161,5 +161,6 @@ redirect_from:
         <figcaption class="memory-card__caption">Spiaggia di Cefalu, Sicily, 2022</figcaption>
       </figure>
     </div>
+
   </div>
 </section>
