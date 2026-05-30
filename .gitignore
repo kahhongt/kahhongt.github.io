@@ -1,4 +1,5 @@
 _site/
+.DS_Store
 
 # ignoring sample portfolio posts
 /_portfolio/portfolio-1.md
